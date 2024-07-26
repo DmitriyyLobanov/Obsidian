@@ -4,7 +4,7 @@ Business Requirenments Document - документ-описание бизнес
 
 [[Бизнес анализ]]
 [[Системный анализ]]
-[[FRD]]
+[[FSD]]
 [[SRS]]
 
 #Learn
