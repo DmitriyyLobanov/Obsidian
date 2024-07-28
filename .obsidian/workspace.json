@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0dbb703a6302b287",
+        "id": "c47ad28aad01d595",
         "type": "tabs",
         "children": [
           {
-            "id": "d911757f28c28b4e",
+            "id": "31cdd1154661188d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainBase/SRS.md",
+                "file": "MainBase/Требование.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a2484c20ba2cf3d2",
+            "id": "bd10e5183aae2a5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainBase/BRD.md",
+                "file": "MainBase/Уровни и типы требований.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MainBase/SRS.md",
+                "file": "MainBase/Уровни и типы требований.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MainBase/SRS.md",
+                "file": "MainBase/Уровни и типы требований.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MainBase/SRS.md"
+                "file": "MainBase/Уровни и типы требований.md"
               }
             }
           }
@@ -158,12 +159,18 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "d911757f28c28b4e",
+  "active": "bd10e5183aae2a5b",
   "lastOpenFiles": [
-    "MainBase/BRD.md",
-    "MainBase/SRS.md",
-    "MainBase/FRD.md",
+    "MainBase/у.md",
+    "MainBase/Уровни и типы требований.md",
+    "MainBase/Требование.md",
     "MainBase/Бизнес анализ.md",
+    "Daily/2024-07-28.md",
+    "MainBase/BRD.md",
+    "MainBase/FSD.md",
+    "Daily/2024-07-26.md",
+    "Daily",
+    "MainBase/SRS.md",
     "MainBase/BI система.md",
     "MainBase/To be.md",
     "MainBase/As is.md",
@@ -172,7 +179,6 @@
     "Daily/2024-07-24.md",
     "Templates/Idea.md",
     "MainBase/sdfgsdfg.md",
-    "Без названия",
     "MainBase",
     "Templates",
     "Files",
