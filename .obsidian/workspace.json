@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c47ad28aad01d595",
+        "id": "ed5f3bafaf5382a5",
         "type": "tabs",
         "children": [
           {
-            "id": "31cdd1154661188d",
+            "id": "e0b96f644a5801d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainBase/Требование.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd10e5183aae2a5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/Уровни и типы требований.md",
+                "file": "MainBase/Функции аналитика.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MainBase/Уровни и типы требований.md",
+                "file": "MainBase/Функции аналитика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MainBase/Уровни и типы требований.md",
+                "file": "MainBase/Функции аналитика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MainBase/Уровни и типы требований.md"
+                "file": "MainBase/Функции аналитика.md"
               }
             }
           }
@@ -159,21 +146,24 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "bd10e5183aae2a5b",
+  "active": "e0b96f644a5801d6",
   "lastOpenFiles": [
-    "MainBase/у.md",
+    "MainBase/Функции аналитика.md",
+    "MainBase/Системный анализ.md",
+    "MainBase/Бизнес анализ.md",
+    "MainBase/To be.md",
+    "MainBase/SRS.md",
+    "MainBase/FSD.md",
+    "MainBase/BI система.md",
+    "MainBase/BRD.md",
+    "MainBase/As is.md",
     "MainBase/Уровни и типы требований.md",
     "MainBase/Требование.md",
-    "MainBase/Бизнес анализ.md",
+    "MainBase/[Системный анализ.md",
+    "MainBase/у.md",
     "Daily/2024-07-28.md",
-    "MainBase/BRD.md",
-    "MainBase/FSD.md",
     "Daily/2024-07-26.md",
     "Daily",
-    "MainBase/SRS.md",
-    "MainBase/BI система.md",
-    "MainBase/To be.md",
-    "MainBase/As is.md",
     "Templates/Learn.md",
     "Templates/Daily.md",
     "Daily/2024-07-24.md",
