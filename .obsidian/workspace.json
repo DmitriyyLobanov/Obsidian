@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ed5f3bafaf5382a5",
+        "id": "fb1eb19f59f6bb8d",
         "type": "tabs",
         "children": [
           {
-            "id": "e0b96f644a5801d6",
+            "id": "227460b51e0027aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainBase/Функции аналитика.md",
+                "file": "Daily/2024-08-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MainBase/Функции аналитика.md",
+                "file": "Daily/2024-08-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MainBase/Функции аналитика.md",
+                "file": "Daily/2024-08-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MainBase/Функции аналитика.md"
+                "file": "Daily/2024-08-01.md"
               }
             }
           }
@@ -146,11 +146,23 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e0b96f644a5801d6",
+  "active": "227460b51e0027aa",
   "lastOpenFiles": [
-    "MainBase/Функции аналитика.md",
+    "Templates/Idea.md",
+    "Без названия.canvas",
+    "Pasted image 20240801170255.png",
+    "Templates/IDe.md",
+    "Templates/Learn.md",
+    "MainBase/Требования к требованиям.md",
+    "MainBase/Требование.md",
+    "MainBase/Формулирование по Gherkin (Cucumber).md",
+    "MainBase/формулирование требований.md",
+    "MainBase/Управление требованиями.md",
+    "Daily/2024-08-01.md",
+    "MainBase/Stakeholder.md",
     "MainBase/Системный анализ.md",
     "MainBase/Бизнес анализ.md",
+    "MainBase/Функции аналитика.md",
     "MainBase/To be.md",
     "MainBase/SRS.md",
     "MainBase/FSD.md",
@@ -158,17 +170,12 @@
     "MainBase/BRD.md",
     "MainBase/As is.md",
     "MainBase/Уровни и типы требований.md",
-    "MainBase/Требование.md",
     "MainBase/[Системный анализ.md",
     "MainBase/у.md",
     "Daily/2024-07-28.md",
     "Daily/2024-07-26.md",
     "Daily",
-    "Templates/Learn.md",
     "Templates/Daily.md",
-    "Daily/2024-07-24.md",
-    "Templates/Idea.md",
-    "MainBase/sdfgsdfg.md",
     "MainBase",
     "Templates",
     "Files",
