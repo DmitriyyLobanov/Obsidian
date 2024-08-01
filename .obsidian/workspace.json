@@ -138,8 +138,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "651fb701e22ff09d",
+  "active": "70c984cb019fd498",
   "lastOpenFiles": [
+    "MainBase/формулирование требований.md",
+    "MainBase/Функции аналитика.md",
+    "MainBase/Формулирование по Gherkin (Cucumber).md",
+    "MainBase/Уровни и типы требований.md",
+    "MainBase/Управление требованиями.md",
+    "MainBase/Требования к требованиям.md",
+    "MainBase/Требование.md",
+    "MainBase/Системный анализ.md",
+    "MainBase/Stakeholder.md",
+    "MainBase/FSD.md",
+    "Daily/2024-08-01.md",
     "MainBase/BRD.md",
     "MainBase/SRS.md",
     "MainBase/FRD.md",
