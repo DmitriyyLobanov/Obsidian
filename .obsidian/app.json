@@ -3,5 +3,6 @@
   "newFileFolderPath": "MainBase",
   "attachmentFolderPath": "Files",
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showRibbon": true
 }

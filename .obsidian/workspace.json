@@ -4,18 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "39543040a236d11a",
+        "id": "a29d23b98cce4e0b",
         "type": "tabs",
         "children": [
           {
-            "id": "651fb701e22ff09d",
+            "id": "db48f8c344078577",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/MRD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b34b93cda7b243c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/BRD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7554694130566fd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/PRD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bebd625908af195d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/FSD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b53f0cf1fda8ca6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/SRS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30b3437c482683f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/PSD.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -81,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MainBase/SRS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MainBase/SRS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MainBase/SRS.md"
+              }
             }
           }
         ]
@@ -138,36 +207,48 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "70c984cb019fd498",
+  "active": "b53f0cf1fda8ca6a",
   "lastOpenFiles": [
+    "Files/Pasted image 20240802173607.png",
+    "MainBase/BRD.md",
+    "Files/Business Requirements Document.doc",
+    "MainBase/FSD.md",
+    "Files/Pasted image 20240802173049.png",
+    "Files/Pasted image 20240802172604.png",
+    "MainBase/SRS.md",
+    "MainBase/PSD.md",
+    "MainBase/PRD.md",
+    "MainBase/MRD.md",
+    "Templates/Learn.md",
+    "MainBase/ПСИ.md",
+    "MainBase/ТЗ.md",
+    "Daily/2024-08-02.md",
+    "Files/IC-Functional-Requirements-9187_WORD.dotx",
+    "Files/Project_Name_Functional_amp_amp_Non-Functional_Requirements_Specification_v_VersionNumber 1.docx",
+    "Files/Project_Name_Functional_amp_amp_Non-Functional_Requirements_Specification_v_VersionNumber.docx",
+    "Files/Functional Specification Document Template.docx",
+    "Files/ГОСТ_34-602-89_ТЗ_на_создание_АС.pdf",
+    "Files/Pasted image 20240802154456.png",
+    "MainBase/эскалация.md",
+    "MainBase/Сбор требований.md",
+    "MainBase/Коммуникации аналитика.md",
+    "MainBase/user story.md",
+    "MainBase/Stakeholder.md",
+    "MainBase/Будущие пользователи.md",
+    "MainBase/Бизнес заказчик проекта.md",
+    "MainBase/источники требований.md",
+    "MainBase/Артефакты аналитика.md",
+    "Files/Pasted image 20240802121908.png",
+    "Files",
+    "Pasted image 20240802121811.png",
+    "Daily/2024-08-01.md",
     "MainBase/формулирование требований.md",
     "MainBase/Функции аналитика.md",
     "MainBase/Формулирование по Gherkin (Cucumber).md",
     "MainBase/Уровни и типы требований.md",
     "MainBase/Управление требованиями.md",
-    "MainBase/Требования к требованиям.md",
-    "MainBase/Требование.md",
-    "MainBase/Системный анализ.md",
-    "MainBase/Stakeholder.md",
-    "MainBase/FSD.md",
-    "Daily/2024-08-01.md",
-    "MainBase/BRD.md",
-    "MainBase/SRS.md",
-    "MainBase/FRD.md",
-    "MainBase/Бизнес анализ.md",
-    "MainBase/BI система.md",
-    "MainBase/To be.md",
-    "MainBase/As is.md",
-    "Templates/Learn.md",
-    "Templates/Daily.md",
-    "Daily/2024-07-24.md",
-    "Templates/Idea.md",
-    "MainBase/sdfgsdfg.md",
-    "Без названия",
     "MainBase",
     "Templates",
-    "Files",
-    "Daily",
-    "первая попытка в obsidian"
+    "Files"
   ]
 }
