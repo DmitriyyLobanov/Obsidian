@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f54c411c6c40dd00",
+        "id": "98d5f76e0da1e2c0",
         "type": "tabs",
         "children": [
           {
-            "id": "8226f5cbc239cc82",
+            "id": "0481977e0ec0a8de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-08-01.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-08-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-08-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/2024-08-01.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8226f5cbc239cc82",
+  "active": "0481977e0ec0a8de",
   "lastOpenFiles": [
-    "Daily/2024-08-02.md",
+    "MainBase/user story.md",
+    "MainBase/use case.md",
     "Daily/2024-08-01.md",
+    "Daily/2024-08-02.md",
     "MainBase/схема требований по Вигерсу.md",
     "MainBase/Требование.md",
     "MainBase/Управление требованиями.md",
@@ -165,8 +159,6 @@
     "MainBase/Атрибут качества.md",
     "MainBase/Системное требование.md",
     "MainBase/Пользовательское требование.md",
-    "MainBase/use case.md",
-    "MainBase/user story.md",
     "MainBase/Бизнес требование.md",
     "Files/Pasted image 20240804135221.png",
     "MainBase/Уровни и типы требований.md",
