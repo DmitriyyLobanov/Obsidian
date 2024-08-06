@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "98d5f76e0da1e2c0",
+        "id": "1915244cdb0931bb",
         "type": "tabs",
         "children": [
           {
-            "id": "0481977e0ec0a8de",
+            "id": "cb834abc6c3da7a5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/Нефункциональное требование.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MainBase/Нефункциональное требование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MainBase/Нефункциональное требование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MainBase/Нефункциональное требование.md"
+              }
             }
           }
         ]
@@ -138,14 +146,20 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0481977e0ec0a8de",
+  "active": "cb834abc6c3da7a5",
   "lastOpenFiles": [
+    "Daily/2024-08-06.md",
+    "MainBase/схема требований по Вигерсу.md",
+    "MainBase/Еженедельный разбор daily заметок.md",
+    "MainBase/Системное требование.md",
     "MainBase/user story.md",
+    "MainBase/Требование.md",
+    "MainBase/Еженедельный ретро.md",
+    "Templates/Idea.md",
+    "MainBase/Stakeholder.md",
     "MainBase/use case.md",
     "Daily/2024-08-01.md",
     "Daily/2024-08-02.md",
-    "MainBase/схема требований по Вигерсу.md",
-    "MainBase/Требование.md",
     "MainBase/Управление требованиями.md",
     "MainBase/Разработка технических условий.md",
     "MainBase/разработка требований.md",
@@ -157,17 +171,11 @@
     "Files/Pasted image 20240804192758.png",
     "MainBase/Нефункциональное требование.md",
     "MainBase/Атрибут качества.md",
-    "MainBase/Системное требование.md",
     "MainBase/Пользовательское требование.md",
     "MainBase/Бизнес требование.md",
     "Files/Pasted image 20240804135221.png",
     "MainBase/Уровни и типы требований.md",
     "MainBase/Бизнес правило.md",
-    "MainBase/Характеристика.md",
-    "MainBase/Внешнее требование к интерфейсу.md",
-    "MainBase/Ограничение.md",
-    "MainBase/PSD.md",
-    "MainBase/SRS.md",
     "Files/Pasted image 20240802173607.png",
     "Files/Business Requirements Document.doc",
     "Files/Pasted image 20240802173049.png",
