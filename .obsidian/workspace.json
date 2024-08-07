@@ -11,11 +11,28 @@
             "id": "0481977e0ec0a8de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/Функциональное требование.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22e12af3bcfc0410",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/Нефункциональное требование.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MainBase/Нефункциональное требование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MainBase/Нефункциональное требование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MainBase/Нефункциональное требование.md"
+              }
             }
           }
         ]
@@ -138,8 +159,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0481977e0ec0a8de",
+  "active": "22e12af3bcfc0410",
   "lastOpenFiles": [
+    "MainBase/Функциональное требование.md",
+    "MainBase/Нефункциональное требование.md",
     "MainBase/user story.md",
     "MainBase/use case.md",
     "Daily/2024-08-01.md",
@@ -153,9 +176,7 @@
     "MainBase/документирование требований.md",
     "MainBase/анализ требований.md",
     "MainBase/выявление требований.md",
-    "MainBase/Функциональное требование.md",
     "Files/Pasted image 20240804192758.png",
-    "MainBase/Нефункциональное требование.md",
     "MainBase/Атрибут качества.md",
     "MainBase/Системное требование.md",
     "MainBase/Пользовательское требование.md",
