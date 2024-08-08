@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d4f2edae576d2455",
+        "id": "526119d2fab8a62f",
         "type": "tabs",
         "children": [
           {
-            "id": "9e637f6e8c2f3413",
+            "id": "5b2dd3c65c6e7a16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/Stakeholder.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MainBase/Stakeholder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MainBase/Stakeholder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MainBase/Stakeholder.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,21 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9e637f6e8c2f3413",
+  "active": "5b2dd3c65c6e7a16",
   "lastOpenFiles": [
+    "MainBase/монолит.md",
+    "MainBase/шаблоны миграции с монолита на микросервис.md",
+    "MainBase/Захват изменения данных.md",
+    "MainBase/декоратор_(шаблон миграции).md",
+    "MainBase/Фикус-душитель.md",
+    "MainBase/параллельное выполнение.md",
+    "Files/Pasted image 20240808144717.png",
+    "MainBase/микросервис.md",
+    "MainBase/распределённый монолит.md",
+    "MainBase/user story.md",
+    "MainBase/use case.md",
+    "MainBase/Артефакты аналитика.md",
+    "MainBase/Stakeholder.md",
     "MainBase/Требование.md"
   ]
 }
