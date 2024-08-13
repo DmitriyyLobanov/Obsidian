@@ -46,16 +46,6 @@
             }
           },
           {
-            "id": "d7080d8a255d1fe9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/Разработка требований к ПО_Вигерс.pdf"
-              }
-            }
-          },
-          {
             "id": "a94c79db643a97c4",
             "type": "leaf",
             "state": {
@@ -68,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MainBase/Список профессиональной литературы.md",
+                "file": "MainBase/Диаграмма swimlane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MainBase/Список профессиональной литературы.md",
+                "file": "MainBase/Диаграмма swimlane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MainBase/Список профессиональной литературы.md"
+                "file": "MainBase/Диаграмма swimlane.md"
               }
             }
           }
@@ -195,15 +185,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a94c79db643a97c4",
+  "active": "ee8644264306e767",
   "lastOpenFiles": [
+    "MainBase/Моделирование требований.md",
     "MainBase/Диаграмма swimlane.md",
-    "Files/Pasted image 20240812230925.png",
-    "Files/Разработка требований к ПО_Вигерс.pdf",
     "MainBase/Список профессиональной литературы.md",
+    "MainBase/Модели врут.md",
+    "Files/Разработка требований к ПО_Вигерс.pdf",
+    "MainBase/Список тегов.md",
+    "Files/Pasted image 20240812230925.png",
     "Files/Pasted image 20240812225806.png",
     "MainBase/Приятно чувствовать направление.md",
-    "MainBase/Моделирование требований.md",
     "MainBase/Диаграмма потоков данных DFD.md",
     "MainBase/Модели это инструмент улучшения коммуникаций.md",
     "Files/Pasted image 20240812221208.png",
@@ -214,7 +206,6 @@
     "MainBase/Требования к требованиям.md",
     "MainBase/use case.md",
     "MainBase/Концепция продукта и границы проекта.md",
-    "MainBase/Список тегов.md",
     "MainBase/Не стыдно не знать.md",
     "MainBase/Рецензии коллег.md",
     "MainBase/Документ о концепции и границах.md",
