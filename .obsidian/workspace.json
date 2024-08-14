@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c5a07e34e3522327",
+        "id": "9581c6153743567d",
         "type": "tabs",
         "children": [
           {
-            "id": "b00521727f8eee15",
+            "id": "f935cdcbe8836e6b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-08-09.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2024-08-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2024-08-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/2024-08-09.md"
+              }
             }
           }
         ]
@@ -138,8 +146,22 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "b00521727f8eee15",
+  "active": "f935cdcbe8836e6b",
   "lastOpenFiles": [
+    "Daily/2024-08-06.md",
+    "Daily/2024-08-02.md",
+    "Daily/2024-08-01.md",
+    "MainBase/Моделирование требований.md",
+    "MainBase/Диаграмма переходов состояний STD.md",
+    "MainBase/Карта диалоговых окон.md",
+    "Files/Разработка требований к ПО_Вигерс.pdf",
+    "Files/Pasted image 20240814230114.png",
+    "Files/Pasted image 20240814221019.png",
+    "Files/Pasted image 20240814220604.png",
+    "MainBase/Диаграмма потоков данных DFD.md",
+    "MainBase/Диаграмма swimlane.md",
+    "MainBase/Список профессиональной литературы аналитика.md",
+    "MainBase/Список литературы.md",
     "первая попытка в obsidian/JavaSpring_and_CommonPractice/gRPC.md",
     "первая попытка в obsidian/JavaSpring_and_CommonPractice/Java Spring Start.md",
     "первая попытка в obsidian/JavaSpring_and_CommonPractice/Spring.md",
@@ -149,33 +171,18 @@
     "первая попытка в obsidian/JavaSpring_and_CommonPractice/Стили межсистемной интеграции по API.md",
     "первая попытка в obsidian/JavaSpring_and_CommonPractice/Коды состояний HTTP характерные для REST.md",
     "Daily/2024-08-09.md",
-    "Daily/2024-08-06.md",
-    "Daily/2024-08-02.md",
-    "Daily/2024-08-01.md",
-    "MainBase/Список профессиональной литературы аналитика.md",
-    "MainBase/Список литературы.md",
     "MainBase/Список тегов.md",
     "MainBase/Рецензии коллег.md",
     "MainBase/Модель проще системы которая моделируется.md",
     "MainBase/Модели это инструмент улучшения коммуникаций.md",
     "MainBase/монолитная архитектура.md",
     "MainBase/микросервисная архитектура MSA.md",
-    "MainBase/сервис ориентированная архитектура SOA.md",
-    "MainBase/формулирование требований.md",
-    "MainBase/Моделирование требований.md",
-    "MainBase/Диаграмма swimlane.md",
-    "MainBase/Модели врут.md",
-    "Files/Разработка требований к ПО_Вигерс.pdf",
     "Files/Pasted image 20240812230925.png",
     "Files/Pasted image 20240812225806.png",
-    "MainBase/Приятно чувствовать направление.md",
     "Files/Pasted image 20240812221208.png",
     "Files/Pasted image 20240811132851.png",
     "Files/Pasted image 20240811131317.png",
     "Files/Pasted image 20240811125248.png",
-    "Files/Pasted image 20240811124812.png",
-    "Files/Pasted image 20240811123612.png",
-    "Files/Pasted image 20240810223537.png",
-    "Files/Pasted image 20240810222035.png"
+    "Files/Pasted image 20240811124812.png"
   ]
 }
