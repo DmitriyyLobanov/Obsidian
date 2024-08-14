@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "dfd",
-  "showTags": false,
+  "search": "цитата",
+  "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -18,5 +18,5 @@
   "linkStrength": 0.791060291060291,
   "linkDistance": 79,
   "scale": 0.18462326225858286,
-  "close": true
+  "close": false
 }

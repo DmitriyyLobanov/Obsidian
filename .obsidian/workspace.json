@@ -4,61 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "14dae50753224eea",
+        "id": "c5a07e34e3522327",
         "type": "tabs",
         "children": [
           {
-            "id": "ec1e1de393810227",
+            "id": "b00521727f8eee15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/формулирование требований.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c4051c90f364d97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/Моделирование требований.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee8644264306e767",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/Диаграмма swimlane.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a94c79db643a97c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/Список профессиональной литературы.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MainBase/Диаграмма swimlane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MainBase/Диаграмма swimlane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MainBase/Диаграмма swimlane.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -185,43 +138,43 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ee8644264306e767",
+  "active": "b00521727f8eee15",
   "lastOpenFiles": [
+    "первая попытка в obsidian/JavaSpring_and_CommonPractice/gRPC.md",
+    "первая попытка в obsidian/JavaSpring_and_CommonPractice/Java Spring Start.md",
+    "первая попытка в obsidian/JavaSpring_and_CommonPractice/Spring.md",
+    "первая попытка в obsidian/JavaSpring_and_CommonPractice/SOAP.md",
+    "первая попытка в obsidian/JavaSpring_and_CommonPractice/GraphQL.md",
+    "первая попытка в obsidian/JavaSpring_and_CommonPractice/FreeCodeCamp.md",
+    "первая попытка в obsidian/JavaSpring_and_CommonPractice/Стили межсистемной интеграции по API.md",
+    "первая попытка в obsidian/JavaSpring_and_CommonPractice/Коды состояний HTTP характерные для REST.md",
+    "Daily/2024-08-09.md",
+    "Daily/2024-08-06.md",
+    "Daily/2024-08-02.md",
+    "Daily/2024-08-01.md",
+    "MainBase/Список профессиональной литературы аналитика.md",
+    "MainBase/Список литературы.md",
+    "MainBase/Список тегов.md",
+    "MainBase/Рецензии коллег.md",
+    "MainBase/Модель проще системы которая моделируется.md",
+    "MainBase/Модели это инструмент улучшения коммуникаций.md",
+    "MainBase/монолитная архитектура.md",
+    "MainBase/микросервисная архитектура MSA.md",
+    "MainBase/сервис ориентированная архитектура SOA.md",
+    "MainBase/формулирование требований.md",
     "MainBase/Моделирование требований.md",
     "MainBase/Диаграмма swimlane.md",
-    "MainBase/Список профессиональной литературы.md",
     "MainBase/Модели врут.md",
     "Files/Разработка требований к ПО_Вигерс.pdf",
-    "MainBase/Список тегов.md",
     "Files/Pasted image 20240812230925.png",
     "Files/Pasted image 20240812225806.png",
     "MainBase/Приятно чувствовать направление.md",
-    "MainBase/Диаграмма потоков данных DFD.md",
-    "MainBase/Модели это инструмент улучшения коммуникаций.md",
     "Files/Pasted image 20240812221208.png",
-    "MainBase/формулирование требований.md",
-    "MainBase/Требование.md",
-    "MainBase/Модель проще системы которая моделируется.md",
-    "Templates/Без названия.md",
-    "MainBase/Требования к требованиям.md",
-    "MainBase/use case.md",
-    "MainBase/Концепция продукта и границы проекта.md",
-    "MainBase/Не стыдно не знать.md",
-    "MainBase/Рецензии коллег.md",
-    "MainBase/Документ о концепции и границах.md",
-    "MainBase/SRS.md",
     "Files/Pasted image 20240811132851.png",
-    "MainBase/Бизнес требование.md",
-    "MainBase/Бизнес правило.md",
     "Files/Pasted image 20240811131317.png",
     "Files/Pasted image 20240811125248.png",
     "Files/Pasted image 20240811124812.png",
-    "MainBase/Уровни и типы требований.md",
-    "MainBase/Разработка требований к программному обеспечению Карл Вигерс.md",
     "Files/Pasted image 20240811123612.png",
-    "MainBase/Сбор требований.md",
-    "MainBase/критерии завершения сбора требований.md",
-    "MainBase/Ограничение.md",
     "Files/Pasted image 20240810223537.png",
     "Files/Pasted image 20240810222035.png"
   ]
