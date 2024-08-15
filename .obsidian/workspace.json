@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9581c6153743567d",
+        "id": "3e45c11523a1f692",
         "type": "tabs",
         "children": [
           {
-            "id": "f935cdcbe8836e6b",
+            "id": "8d2d279d4ec1ce61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-08-09.md",
+                "file": "MainBase/HTTP CRUD.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-08-09.md",
+                "file": "MainBase/HTTP CRUD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-08-09.md",
+                "file": "MainBase/HTTP CRUD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-08-09.md"
+                "file": "MainBase/HTTP CRUD.md"
               }
             }
           }
@@ -146,8 +146,27 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "f935cdcbe8836e6b",
+  "active": "8d2d279d4ec1ce61",
   "lastOpenFiles": [
+    "MainBase/GET.md",
+    "MainBase/HTTP CRUD.md",
+    "первая попытка в obsidian/JavaSpring_and_CommonPractice/FreeCodeCamp.md",
+    "MainBase/SOAP.md",
+    "MainBase/Кэширование.md",
+    "MainBase/Стили межсистемной интеграции по API.md",
+    "MainBase/GraphQL.md",
+    "MainBase/gRPC.md",
+    "MainBase/REST.md",
+    "первая попытка в obsidian/JavaSpring_and_CommonPractice/JAVA.md",
+    "MainBase/Код по требованию (code on demand).md",
+    "Templates/Learn.md",
+    "MainBase/HTTP.md",
+    "MainBase/Слоистая архитектура (layered system).md",
+    "Daily/2024-08-15.md",
+    "MainBase/Единообразие интерфейса HATEOAS.md",
+    "MainBase/клиент-серверная архитектура.md",
+    "MainBase/stateless.md",
+    "Daily/2024-08-09.md",
     "Daily/2024-08-06.md",
     "Daily/2024-08-02.md",
     "Daily/2024-08-01.md",
@@ -159,24 +178,6 @@
     "Files/Pasted image 20240814221019.png",
     "Files/Pasted image 20240814220604.png",
     "MainBase/Диаграмма потоков данных DFD.md",
-    "MainBase/Диаграмма swimlane.md",
-    "MainBase/Список профессиональной литературы аналитика.md",
-    "MainBase/Список литературы.md",
-    "первая попытка в obsidian/JavaSpring_and_CommonPractice/gRPC.md",
-    "первая попытка в obsidian/JavaSpring_and_CommonPractice/Java Spring Start.md",
-    "первая попытка в obsidian/JavaSpring_and_CommonPractice/Spring.md",
-    "первая попытка в obsidian/JavaSpring_and_CommonPractice/SOAP.md",
-    "первая попытка в obsidian/JavaSpring_and_CommonPractice/GraphQL.md",
-    "первая попытка в obsidian/JavaSpring_and_CommonPractice/FreeCodeCamp.md",
-    "первая попытка в obsidian/JavaSpring_and_CommonPractice/Стили межсистемной интеграции по API.md",
-    "первая попытка в obsidian/JavaSpring_and_CommonPractice/Коды состояний HTTP характерные для REST.md",
-    "Daily/2024-08-09.md",
-    "MainBase/Список тегов.md",
-    "MainBase/Рецензии коллег.md",
-    "MainBase/Модель проще системы которая моделируется.md",
-    "MainBase/Модели это инструмент улучшения коммуникаций.md",
-    "MainBase/монолитная архитектура.md",
-    "MainBase/микросервисная архитектура MSA.md",
     "Files/Pasted image 20240812230925.png",
     "Files/Pasted image 20240812225806.png",
     "Files/Pasted image 20240812221208.png",
