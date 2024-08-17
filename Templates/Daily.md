@@ -1,3 +1,6 @@
+{{time:HH:mm}}
+
+
 
 
 #Daily

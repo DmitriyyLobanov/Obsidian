@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainBase/BPMN диаграмма.md",
+                "file": "Daily/2024-08-17 задачи по структуре проекта.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53fae9721bf581cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/Список приобретенных компетенций NeoFlex System Analyst.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MainBase/BPMN диаграмма.md",
+                "file": "Daily/2024-08-17 задачи по структуре проекта.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MainBase/BPMN диаграмма.md",
+                "file": "Daily/2024-08-17 задачи по структуре проекта.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MainBase/BPMN диаграмма.md"
+                "file": "Daily/2024-08-17 задачи по структуре проекта.md"
               }
             }
           }
@@ -173,6 +185,19 @@
   },
   "active": "42459dcfd2e7b09d",
   "lastOpenFiles": [
+    "MainBase/HTTP CRUD.md",
+    "MainBase/Список приобретенных компетенций NeoFlex System Analyst.md",
+    "MainBase/Список тегов.md",
+    "Daily/2024-08-17 задачи по структуре проекта.md",
+    "MainBase/Моделирование требований.md",
+    "MainBase/Диаграмма последовательности sequence diagram.md",
+    "Files/Pasted image 20240817223909.png",
+    "MainBase/BPMN диаграмма.md",
+    "Files/Pasted image 20240817222901.png",
+    "MainBase/Список профессиональной литературы аналитика.md",
+    "Templates/Idea.md",
+    "Templates/Daily.md",
+    "Templates/Learn.md",
     "Files/вклили.gif",
     "Files/Pasted image 20240816172144.png",
     "Files/и2.gif",
@@ -181,13 +206,7 @@
     "Files/Pasted image 20240816170921.png",
     "Files/Pasted image 20240816170155.png",
     "Files/Pasted image 20240816154314.png",
-    "Files/Pasted image 20240816154150.png",
-    "Files/Pasted image 20240816152058.png",
-    "Files/55daeff0b999ff1219e7c6b3dd69cd89.gif",
     "MainBase/Карта диалоговых окон.md",
-    "MainBase/Моделирование требований.md",
-    "MainBase/BPMN диаграмма.md",
-    "MainBase/HTTP CRUD.md",
     "MainBase/Требование.md",
     "MainBase/Уровни и типы требований.md",
     "MainBase/схема требований по Вигерсу.md",
@@ -201,14 +220,7 @@
     "MainBase/REST.md",
     "первая попытка в obsidian/JavaSpring_and_CommonPractice/JAVA.md",
     "MainBase/Код по требованию (code on demand).md",
-    "Templates/Learn.md",
     "MainBase/HTTP.md",
-    "MainBase/Слоистая архитектура (layered system).md",
-    "Daily/2024-08-15.md",
-    "MainBase/Единообразие интерфейса HATEOAS.md",
-    "MainBase/клиент-серверная архитектура.md",
-    "MainBase/stateless.md",
-    "Daily/2024-08-09.md",
     "Files/Разработка требований к ПО_Вигерс.pdf"
   ]
 }
