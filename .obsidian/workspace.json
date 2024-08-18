@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f829f4efdcf2cd75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/Таблицы событий и реакций.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MainBase/Моделирование требований.md",
+                "file": "MainBase/Таблицы событий и реакций.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MainBase/Моделирование требований.md",
+                "file": "MainBase/Таблицы событий и реакций.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MainBase/Моделирование требований.md"
+                "file": "MainBase/Таблицы событий и реакций.md"
               }
             }
           }
@@ -146,12 +159,22 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "4f0c01e184e15602",
+  "active": "f829f4efdcf2cd75",
   "lastOpenFiles": [
+    "Files/Pasted image 20240818211030.png",
+    "MainBase/Диаграмма swimlane.md",
+    "MainBase/Таблицы событий и реакций.md",
+    "MainBase/Моделирование требований.md",
+    "MainBase/Таблицы и деревья решений.md",
+    "MainBase/Диаграмма потоков данных DFD.md",
+    "MainBase/Диаграмма переходов состояний STD.md",
+    "MainBase/Карта диалоговых окон.md",
+    "Files/Pasted image 20240818204957.png",
+    "Files/Pasted image 20240818204923.png",
+    "MainBase/Диаграмма последовательности sequence diagram.md",
+    "MainBase/формулирование требований.md",
     "Daily/2024-08-17 задачи по структуре проекта.md",
     "MainBase/Список приобретенных компетенций NeoFlex System Analyst.md",
-    "MainBase/Карта диалоговых окон.md",
-    "MainBase/Моделирование требований.md",
     "MainBase/HTTP CRUD.md",
     "MainBase/ключ идемпотентности.md",
     "MainBase/Идемпотентность http метода.md",
@@ -164,7 +187,6 @@
     "MainBase/Кэширование.md",
     "кэшируемость результата запроса",
     "MainBase/Список тегов.md",
-    "MainBase/Диаграмма последовательности sequence diagram.md",
     "Files/Pasted image 20240817223909.png",
     "MainBase/BPMN диаграмма.md",
     "Files/Pasted image 20240817222901.png",
@@ -174,16 +196,8 @@
     "Templates/Learn.md",
     "Files/вклили.gif",
     "Files/Pasted image 20240816172144.png",
-    "Files/и2.gif",
-    "Files/и1.gif",
     "MainBase/Требование.md",
     "MainBase/Уровни и типы требований.md",
-    "MainBase/схема требований по Вигерсу.md",
-    "MainBase/GET.md",
-    "первая попытка в obsidian/JavaSpring_and_CommonPractice/FreeCodeCamp.md",
-    "MainBase/SOAP.md",
-    "MainBase/Стили межсистемной интеграции по API.md",
-    "MainBase/GraphQL.md",
     "Files/Разработка требований к ПО_Вигерс.pdf"
   ]
 }
