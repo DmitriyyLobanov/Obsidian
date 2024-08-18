@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3e45c11523a1f692",
+        "id": "e35d37aecc68c1f2",
         "type": "tabs",
         "children": [
           {
-            "id": "8d2d279d4ec1ce61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/HTTP CRUD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f55fd1ba45730f5",
+            "id": "4f0c01e184e15602",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "42459dcfd2e7b09d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-08-17 задачи по структуре проекта.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53fae9721bf581cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/Список приобретенных компетенций NeoFlex System Analyst.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-08-17 задачи по структуре проекта.md",
+                "file": "MainBase/Моделирование требований.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-08-17 задачи по структуре проекта.md",
+                "file": "MainBase/Моделирование требований.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-08-17 задачи по структуре проекта.md"
+                "file": "MainBase/Моделирование требований.md"
               }
             }
           }
@@ -183,13 +146,24 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "42459dcfd2e7b09d",
+  "active": "4f0c01e184e15602",
   "lastOpenFiles": [
-    "MainBase/HTTP CRUD.md",
-    "MainBase/Список приобретенных компетенций NeoFlex System Analyst.md",
-    "MainBase/Список тегов.md",
     "Daily/2024-08-17 задачи по структуре проекта.md",
+    "MainBase/Список приобретенных компетенций NeoFlex System Analyst.md",
+    "MainBase/Карта диалоговых окон.md",
     "MainBase/Моделирование требований.md",
+    "MainBase/HTTP CRUD.md",
+    "MainBase/ключ идемпотентности.md",
+    "MainBase/Идемпотентность http метода.md",
+    "Files/Pasted image 20240818120444.png",
+    "Files/Pasted image 20240818120422.png",
+    "Files/Pasted image 20240818120420.png",
+    "Files/Pasted image 20240818115741.png",
+    "MainBase/Безопасность http метода.md",
+    "кэшируемость результата запроса/ответа http метода.md",
+    "MainBase/Кэширование.md",
+    "кэшируемость результата запроса",
+    "MainBase/Список тегов.md",
     "MainBase/Диаграмма последовательности sequence diagram.md",
     "Files/Pasted image 20240817223909.png",
     "MainBase/BPMN диаграмма.md",
@@ -202,25 +176,14 @@
     "Files/Pasted image 20240816172144.png",
     "Files/и2.gif",
     "Files/и1.gif",
-    "Files/пример 2.gif",
-    "Files/Pasted image 20240816170921.png",
-    "Files/Pasted image 20240816170155.png",
-    "Files/Pasted image 20240816154314.png",
-    "MainBase/Карта диалоговых окон.md",
     "MainBase/Требование.md",
     "MainBase/Уровни и типы требований.md",
     "MainBase/схема требований по Вигерсу.md",
     "MainBase/GET.md",
     "первая попытка в obsidian/JavaSpring_and_CommonPractice/FreeCodeCamp.md",
     "MainBase/SOAP.md",
-    "MainBase/Кэширование.md",
     "MainBase/Стили межсистемной интеграции по API.md",
     "MainBase/GraphQL.md",
-    "MainBase/gRPC.md",
-    "MainBase/REST.md",
-    "первая попытка в obsidian/JavaSpring_and_CommonPractice/JAVA.md",
-    "MainBase/Код по требованию (code on demand).md",
-    "MainBase/HTTP.md",
     "Files/Разработка требований к ПО_Вигерс.pdf"
   ]
 }
