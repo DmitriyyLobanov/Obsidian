@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4f0c01e184e15602",
+            "id": "e3609a2a309532b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainBase/Моделирование требований.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f829f4efdcf2cd75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/Таблицы событий и реакций.md",
+                "file": "Daily/2024-08-09.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MainBase/Таблицы событий и реакций.md",
+                "file": "Daily/2024-08-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MainBase/Таблицы событий и реакций.md",
+                "file": "Daily/2024-08-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MainBase/Таблицы событий и реакций.md"
+                "file": "Daily/2024-08-09.md"
               }
             }
           }
@@ -159,12 +146,26 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "f829f4efdcf2cd75",
+  "active": "e3609a2a309532b1",
   "lastOpenFiles": [
+    "MainBase/HTTP.md",
+    "MainBase/Коды ответов.md",
+    "MainBase/HTTP CRUD.md",
+    "Daily/2024-08-09.md",
+    "Daily/2024-08-06.md",
+    "Daily/2024-08-02.md",
+    "Daily/2024-08-01.md",
+    "первая попытка в obsidian/JavaSpring_and_CommonPractice/FreeCodeCamp.md",
+    "первая попытка в obsidian/JavaSpring_and_CommonPractice/Коды состояний HTTP характерные для REST.md",
+    "Daily/2024-08-17 задачи по структуре проекта.md",
+    "MainBase/кэшируемость результата запроса ответа http метода.md",
+    "Daily/2024-08-15.md",
+    "MainBase/Моделирование требований.md",
+    "MainBase/ключ идемпотентности.md",
+    "MainBase/Идемпотентность http метода.md",
+    "MainBase/Таблицы событий и реакций.md",
     "Files/Pasted image 20240818211030.png",
     "MainBase/Диаграмма swimlane.md",
-    "MainBase/Таблицы событий и реакций.md",
-    "MainBase/Моделирование требований.md",
     "MainBase/Таблицы и деревья решений.md",
     "MainBase/Диаграмма потоков данных DFD.md",
     "MainBase/Диаграмма переходов состояний STD.md",
@@ -173,31 +174,17 @@
     "Files/Pasted image 20240818204923.png",
     "MainBase/Диаграмма последовательности sequence diagram.md",
     "MainBase/формулирование требований.md",
-    "Daily/2024-08-17 задачи по структуре проекта.md",
     "MainBase/Список приобретенных компетенций NeoFlex System Analyst.md",
-    "MainBase/HTTP CRUD.md",
-    "MainBase/ключ идемпотентности.md",
-    "MainBase/Идемпотентность http метода.md",
     "Files/Pasted image 20240818120444.png",
     "Files/Pasted image 20240818120422.png",
     "Files/Pasted image 20240818120420.png",
     "Files/Pasted image 20240818115741.png",
     "MainBase/Безопасность http метода.md",
-    "кэшируемость результата запроса/ответа http метода.md",
     "MainBase/Кэширование.md",
     "кэшируемость результата запроса",
-    "MainBase/Список тегов.md",
     "Files/Pasted image 20240817223909.png",
-    "MainBase/BPMN диаграмма.md",
     "Files/Pasted image 20240817222901.png",
-    "MainBase/Список профессиональной литературы аналитика.md",
-    "Templates/Idea.md",
-    "Templates/Daily.md",
-    "Templates/Learn.md",
     "Files/вклили.gif",
-    "Files/Pasted image 20240816172144.png",
-    "MainBase/Требование.md",
-    "MainBase/Уровни и типы требований.md",
     "Files/Разработка требований к ПО_Вигерс.pdf"
   ]
 }
