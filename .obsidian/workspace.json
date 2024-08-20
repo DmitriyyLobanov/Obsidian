@@ -28,21 +28,9 @@
                 "file": "Files/Разработка требований к ПО_Вигерс.pdf"
               }
             }
-          },
-          {
-            "id": "9176cdf4edd713a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/Атрибут качества.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MainBase/Атрибут качества.md",
+                "file": "Files/Разработка требований к ПО_Вигерс.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MainBase/Атрибут качества.md",
+                "file": "Files/Разработка требований к ПО_Вигерс.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MainBase/Атрибут качества.md"
+                "file": "Files/Разработка требований к ПО_Вигерс.pdf"
               }
             }
           }
@@ -169,11 +157,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9176cdf4edd713a0",
+  "active": "fc2b7af8fcff2ceb",
   "lastOpenFiles": [
-    "MainBase/Нефункциональное требование.md",
-    "MainBase/Атрибут качества.md",
+    "MainBase/HTTP.md",
     "Files/Разработка требований к ПО_Вигерс.pdf",
+    "MainBase/Коды ответов.md",
+    "MainBase/Атрибут качества.md",
+    "MainBase/Нефункциональное требование.md",
     "MainBase/dashboard.md",
     "Files/Pasted image 20240819215153.png",
     "MainBase/Моделирование требований.md",
@@ -184,8 +174,6 @@
     "Files/Pasted image 20240819213537.png",
     "MainBase/Таблицы событий и реакций.md",
     "Daily/2024-08-09.md",
-    "MainBase/HTTP.md",
-    "MainBase/Коды ответов.md",
     "MainBase/HTTP CRUD.md",
     "Daily/2024-08-06.md",
     "Daily/2024-08-02.md",
@@ -205,7 +193,6 @@
     "MainBase/Карта диалоговых окон.md",
     "Files/Pasted image 20240818204957.png",
     "Files/Pasted image 20240818204923.png",
-    "MainBase/Диаграмма последовательности sequence diagram.md",
     "Files/Pasted image 20240818120444.png",
     "Files/Pasted image 20240818120422.png",
     "кэшируемость результата запроса"
