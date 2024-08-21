@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "306278ebc173166d",
+        "id": "a336a6ae98755527",
         "type": "tabs",
         "children": [
           {
-            "id": "85364cabdbb707d3",
+            "id": "08ffa07fa8c2793f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-08-01.md",
+                "file": "MainBase/Атрибут качества.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31b7c542d90d6ca4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/Целостность.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "789c25084cc55993",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/Удобство_установки.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-08-01.md",
+                "file": "MainBase/Атрибут качества.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-08-01.md",
+                "file": "MainBase/Атрибут качества.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-08-01.md"
+                "file": "MainBase/Атрибут качества.md"
               }
             }
           }
@@ -146,13 +170,18 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "85364cabdbb707d3",
+  "active": "08ffa07fa8c2793f",
   "lastOpenFiles": [
+    "MainBase/Целостность.md",
+    "MainBase/Удобство_установки.md",
+    "MainBase/Атрибут качества.md",
+    "MainBase/маппинг данных mapping.md",
+    "MainBase/Доступность.md",
+    "Daily/2024-08-01.md",
     "Daily/2024-08-15.md",
     "Daily/2024-08-09.md",
     "Daily/2024-08-06.md",
     "Daily/2024-08-02.md",
-    "Daily/2024-08-01.md",
     "MainBase/жизненный цикл разработки ПО SDLC.md",
     "Files/Pasted image 20240821164641.png",
     "Files/ГОСТ_34-602-89_ТЗ_на_создание_АС 1.pdf",
@@ -170,7 +199,6 @@
     "MainBase/Моделирование требований.md",
     "Files/Разработка требований к ПО_Вигерс.pdf",
     "MainBase/идентификация аутентификация авторизация.md",
-    "MainBase/маппинг данных mapping.md",
     "MainBase/Стили межсистемной интеграции по API.md",
     "MainBase/REST.md",
     "MainBase/SOAP.md",
@@ -180,12 +208,8 @@
     "MainBase/Нефункциональное требование.md",
     "MainBase/HTTP.md",
     "MainBase/Коды ответов.md",
-    "MainBase/Атрибут качества.md",
-    "MainBase/dashboard.md",
     "Files/Pasted image 20240819215153.png",
-    "MainBase/ERD диаграмма.md",
     "Files/Pasted image 20240819214405.png",
-    "MainBase/Таблицы событий и реакций.md",
     "кэшируемость результата запроса"
   ]
 }
