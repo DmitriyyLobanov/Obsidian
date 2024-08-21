@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ca9951fb0933f199",
+        "id": "306278ebc173166d",
         "type": "tabs",
         "children": [
           {
-            "id": "d3fcd1d8a1c707f4",
+            "id": "85364cabdbb707d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainBase/Моделирование требований.md",
+                "file": "Daily/2024-08-01.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "fc2b7af8fcff2ceb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/Разработка требований к ПО_Вигерс.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Разработка требований к ПО_Вигерс.pdf",
+                "file": "Daily/2024-08-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Разработка требований к ПО_Вигерс.pdf",
+                "file": "Daily/2024-08-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Разработка требований к ПО_Вигерс.pdf"
+                "file": "Daily/2024-08-01.md"
               }
             }
           }
@@ -157,44 +146,46 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "fc2b7af8fcff2ceb",
+  "active": "85364cabdbb707d3",
   "lastOpenFiles": [
-    "MainBase/HTTP.md",
-    "Files/Разработка требований к ПО_Вигерс.pdf",
-    "MainBase/Коды ответов.md",
-    "MainBase/Атрибут качества.md",
-    "MainBase/Нефункциональное требование.md",
-    "MainBase/dashboard.md",
-    "Files/Pasted image 20240819215153.png",
-    "MainBase/Моделирование требований.md",
-    "MainBase/ERD диаграмма.md",
-    "Files/Pasted image 20240819214405.png",
-    "Files/Pasted image 20240819214241.png",
-    "Files/Pasted image 20240819213745.png",
-    "Files/Pasted image 20240819213537.png",
-    "MainBase/Таблицы событий и реакций.md",
+    "Daily/2024-08-15.md",
     "Daily/2024-08-09.md",
-    "MainBase/HTTP CRUD.md",
     "Daily/2024-08-06.md",
     "Daily/2024-08-02.md",
     "Daily/2024-08-01.md",
-    "первая попытка в obsidian/JavaSpring_and_CommonPractice/FreeCodeCamp.md",
-    "первая попытка в obsidian/JavaSpring_and_CommonPractice/Коды состояний HTTP характерные для REST.md",
-    "Daily/2024-08-17 задачи по структуре проекта.md",
-    "MainBase/кэшируемость результата запроса ответа http метода.md",
-    "Daily/2024-08-15.md",
-    "MainBase/ключ идемпотентности.md",
-    "MainBase/Идемпотентность http метода.md",
-    "Files/Pasted image 20240818211030.png",
-    "MainBase/Диаграмма swimlane.md",
-    "MainBase/Таблицы и деревья решений.md",
-    "MainBase/Диаграмма потоков данных DFD.md",
-    "MainBase/Диаграмма переходов состояний STD.md",
-    "MainBase/Карта диалоговых окон.md",
-    "Files/Pasted image 20240818204957.png",
-    "Files/Pasted image 20240818204923.png",
-    "Files/Pasted image 20240818120444.png",
-    "Files/Pasted image 20240818120422.png",
+    "MainBase/жизненный цикл разработки ПО SDLC.md",
+    "Files/Pasted image 20240821164641.png",
+    "Files/ГОСТ_34-602-89_ТЗ_на_создание_АС 1.pdf",
+    "Files/Pasted image 20240821164144.png",
+    "Files/Pasted image 20240821164009.png",
+    "Files/Pasted image 20240821163800.png",
+    "MainBase/SRS.md",
+    "Files/Pasted image 20240821163529.png",
+    "MainBase/документирование требований.md",
+    "MainBase/Артефакты аналитика.md",
+    "MainBase/разработка требований.md",
+    "Files/Pasted image 20240821163112.png",
+    "Files/Pasted image 20240821162655.png",
+    "Files/Pasted image 20240821162529.png",
+    "MainBase/Моделирование требований.md",
+    "Files/Разработка требований к ПО_Вигерс.pdf",
+    "MainBase/идентификация аутентификация авторизация.md",
+    "MainBase/маппинг данных mapping.md",
+    "MainBase/Стили межсистемной интеграции по API.md",
+    "MainBase/REST.md",
+    "MainBase/SOAP.md",
+    "MainBase/gRPC.md",
+    "MainBase/GraphQL.md",
+    "MainBase/Список тегов.md",
+    "MainBase/Нефункциональное требование.md",
+    "MainBase/HTTP.md",
+    "MainBase/Коды ответов.md",
+    "MainBase/Атрибут качества.md",
+    "MainBase/dashboard.md",
+    "Files/Pasted image 20240819215153.png",
+    "MainBase/ERD диаграмма.md",
+    "Files/Pasted image 20240819214405.png",
+    "MainBase/Таблицы событий и реакций.md",
     "кэшируемость результата запроса"
   ]
 }
