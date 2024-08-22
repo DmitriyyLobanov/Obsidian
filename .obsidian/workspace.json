@@ -42,8 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce0d2c9364ee90e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/HTTP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5305fc9e0706dd11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/user story.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -109,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MainBase/Атрибут качества.md",
+                "file": "MainBase/user story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MainBase/Атрибут качества.md",
+                "file": "MainBase/user story.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MainBase/Атрибут качества.md"
+                "file": "MainBase/user story.md"
               }
             }
           }
@@ -170,11 +195,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "08ffa07fa8c2793f",
+  "active": "5305fc9e0706dd11",
   "lastOpenFiles": [
+    "Daily/2024-08-17 задачи по структуре проекта.md",
+    "MainBase/HTTP.md",
+    "Daily/2024-08-22.md",
+    "MainBase/HTTP CRUD.md",
+    "Files/Pasted image 20240822111632.png",
+    "Files/Pasted image 20240822111613.png",
+    "MainBase/Атрибут качества.md",
     "MainBase/Целостность.md",
     "MainBase/Удобство_установки.md",
-    "MainBase/Атрибут качества.md",
     "MainBase/маппинг данных mapping.md",
     "MainBase/Доступность.md",
     "Daily/2024-08-01.md",
@@ -204,12 +235,6 @@
     "MainBase/SOAP.md",
     "MainBase/gRPC.md",
     "MainBase/GraphQL.md",
-    "MainBase/Список тегов.md",
-    "MainBase/Нефункциональное требование.md",
-    "MainBase/HTTP.md",
-    "MainBase/Коды ответов.md",
-    "Files/Pasted image 20240819215153.png",
-    "Files/Pasted image 20240819214405.png",
     "кэшируемость результата запроса"
   ]
 }
