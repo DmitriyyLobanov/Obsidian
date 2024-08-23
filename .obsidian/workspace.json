@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainBase/user story.md",
+                "file": "MainBase/Stakeholder.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MainBase/user story.md",
+                "file": "MainBase/Stakeholder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MainBase/user story.md",
+                "file": "MainBase/Stakeholder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MainBase/user story.md"
+                "file": "MainBase/Stakeholder.md"
               }
             }
           }
@@ -197,6 +197,7 @@
   },
   "active": "5305fc9e0706dd11",
   "lastOpenFiles": [
+    "MainBase/user story.md",
     "Daily/2024-08-17 задачи по структуре проекта.md",
     "MainBase/HTTP.md",
     "Daily/2024-08-22.md",
@@ -234,7 +235,6 @@
     "MainBase/REST.md",
     "MainBase/SOAP.md",
     "MainBase/gRPC.md",
-    "MainBase/GraphQL.md",
     "кэшируемость результата запроса"
   ]
 }
