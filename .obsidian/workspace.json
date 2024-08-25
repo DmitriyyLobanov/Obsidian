@@ -20,55 +20,18 @@
             }
           },
           {
-            "id": "31b7c542d90d6ca4",
+            "id": "3fbe5a737534ab99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainBase/Целостность.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "789c25084cc55993",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/Удобство_установки.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce0d2c9364ee90e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/HTTP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5305fc9e0706dd11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/Stakeholder.md",
+                "file": "MainBase/Производительность.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MainBase/Stakeholder.md",
+                "file": "MainBase/Атрибут качества.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MainBase/Stakeholder.md",
+                "file": "MainBase/Атрибут качества.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MainBase/Stakeholder.md"
+                "file": "MainBase/Атрибут качества.md"
               }
             }
           }
@@ -195,18 +158,21 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5305fc9e0706dd11",
+  "active": "08ffa07fa8c2793f",
   "lastOpenFiles": [
+    "MainBase/Производительность.md",
+    "MainBase/Атрибут качества.md",
+    "MainBase/Совместимость.md",
+    "MainBase/Целостность.md",
+    "MainBase/Удобство_установки.md",
+    "MainBase/HTTP.md",
+    "MainBase/Stakeholder.md",
     "MainBase/user story.md",
     "Daily/2024-08-17 задачи по структуре проекта.md",
-    "MainBase/HTTP.md",
     "Daily/2024-08-22.md",
     "MainBase/HTTP CRUD.md",
     "Files/Pasted image 20240822111632.png",
     "Files/Pasted image 20240822111613.png",
-    "MainBase/Атрибут качества.md",
-    "MainBase/Целостность.md",
-    "MainBase/Удобство_установки.md",
     "MainBase/маппинг данных mapping.md",
     "MainBase/Доступность.md",
     "Daily/2024-08-01.md",
@@ -232,9 +198,6 @@
     "Files/Разработка требований к ПО_Вигерс.pdf",
     "MainBase/идентификация аутентификация авторизация.md",
     "MainBase/Стили межсистемной интеграции по API.md",
-    "MainBase/REST.md",
-    "MainBase/SOAP.md",
-    "MainBase/gRPC.md",
     "кэшируемость результата запроса"
   ]
 }
