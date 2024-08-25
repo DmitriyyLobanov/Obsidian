@@ -20,18 +20,19 @@
             }
           },
           {
-            "id": "3fbe5a737534ab99",
+            "id": "d7040ed20b5bb898",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainBase/Производительность.md",
+                "file": "MainBase/Безопасность.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MainBase/Атрибут качества.md",
+                "file": "MainBase/Безопасность.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MainBase/Атрибут качества.md",
+                "file": "MainBase/Безопасность.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MainBase/Атрибут качества.md"
+                "file": "MainBase/Безопасность.md"
               }
             }
           }
@@ -158,13 +159,20 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "08ffa07fa8c2793f",
+  "active": "d7040ed20b5bb898",
   "lastOpenFiles": [
-    "MainBase/Производительность.md",
+    "MainBase/идентификация аутентификация авторизация.md",
+    "MainBase/Безопасность.md",
+    "MainBase/Защита.md",
     "MainBase/Атрибут качества.md",
+    "MainBase/Бизнес правило.md",
+    "MainBase/Устойчивость.md",
+    "MainBase/Надёжность.md",
+    "MainBase/Удобство_установки.md",
+    "MainBase/Доступность.md",
+    "MainBase/Производительность.md",
     "MainBase/Совместимость.md",
     "MainBase/Целостность.md",
-    "MainBase/Удобство_установки.md",
     "MainBase/HTTP.md",
     "MainBase/Stakeholder.md",
     "MainBase/user story.md",
@@ -174,7 +182,6 @@
     "Files/Pasted image 20240822111632.png",
     "Files/Pasted image 20240822111613.png",
     "MainBase/маппинг данных mapping.md",
-    "MainBase/Доступность.md",
     "Daily/2024-08-01.md",
     "Daily/2024-08-15.md",
     "Daily/2024-08-09.md",
@@ -188,16 +195,10 @@
     "Files/Pasted image 20240821163800.png",
     "MainBase/SRS.md",
     "Files/Pasted image 20240821163529.png",
-    "MainBase/документирование требований.md",
-    "MainBase/Артефакты аналитика.md",
-    "MainBase/разработка требований.md",
     "Files/Pasted image 20240821163112.png",
     "Files/Pasted image 20240821162655.png",
     "Files/Pasted image 20240821162529.png",
-    "MainBase/Моделирование требований.md",
     "Files/Разработка требований к ПО_Вигерс.pdf",
-    "MainBase/идентификация аутентификация авторизация.md",
-    "MainBase/Стили межсистемной интеграции по API.md",
     "кэшируемость результата запроса"
   ]
 }
