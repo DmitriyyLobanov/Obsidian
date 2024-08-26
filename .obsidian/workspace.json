@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "d7040ed20b5bb898",
+            "id": "4281bfaba98c9b82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainBase/Безопасность.md",
+                "file": "MainBase/Переносимость.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "bf0b73eef818a2b1",
@@ -173,10 +173,15 @@
   },
   "active": "bcd53d2711d0b4c9",
   "lastOpenFiles": [
+    "MainBase/микросервисная архитектура MSA.md",
+    "MainBase/Атрибут качества.md",
+    "MainBase/Переносимость.md",
+    "MainBase/Возможность модификации.md",
+    "MainBase/Эффективность.md",
     "MainBase/Безопасность.md",
+    "MainBase/Удобство использования.md",
     "MainBase/идентификация аутентификация авторизация.md",
     "MainBase/Защита.md",
-    "MainBase/Атрибут качества.md",
     "MainBase/Бизнес правило.md",
     "MainBase/Устойчивость.md",
     "MainBase/Надёжность.md",
@@ -196,16 +201,11 @@
     "MainBase/маппинг данных mapping.md",
     "Daily/2024-08-01.md",
     "Daily/2024-08-15.md",
-    "Daily/2024-08-09.md",
-    "Daily/2024-08-06.md",
-    "Daily/2024-08-02.md",
-    "MainBase/жизненный цикл разработки ПО SDLC.md",
     "Files/Pasted image 20240821164641.png",
     "Files/ГОСТ_34-602-89_ТЗ_на_создание_АС 1.pdf",
     "Files/Pasted image 20240821164144.png",
     "Files/Pasted image 20240821164009.png",
     "Files/Pasted image 20240821163800.png",
-    "MainBase/SRS.md",
     "Files/Pasted image 20240821163529.png",
     "Files/Pasted image 20240821163112.png",
     "Files/Pasted image 20240821162655.png",
