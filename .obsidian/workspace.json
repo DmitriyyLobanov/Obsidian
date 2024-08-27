@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "4281bfaba98c9b82",
+            "id": "2f424db50d4f6ef7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainBase/Переносимость.md",
+                "file": "MainBase/Масштабируемость.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f86f975dd4a682e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/Возможность_повторного_использования.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MainBase/микросервисная архитектура MSA.md",
+                "file": "MainBase/Атрибут качества.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MainBase/микросервисная архитектура MSA.md",
+                "file": "MainBase/Атрибут качества.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MainBase/микросервисная архитектура MSA.md"
+                "file": "MainBase/Атрибут качества.md"
               }
             }
           }
@@ -171,10 +182,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "bcd53d2711d0b4c9",
+  "active": "08ffa07fa8c2793f",
   "lastOpenFiles": [
-    "MainBase/микросервисная архитектура MSA.md",
+    "MainBase/Масштабируемость.md",
+    "MainBase/Возможность_повторного_использования.md",
     "MainBase/Атрибут качества.md",
+    "MainBase/микросервисная архитектура MSA.md",
+    "MainBase/Артефакты аналитика.md",
     "MainBase/Переносимость.md",
     "MainBase/Возможность модификации.md",
     "MainBase/Эффективность.md",
@@ -198,9 +212,6 @@
     "MainBase/HTTP CRUD.md",
     "Files/Pasted image 20240822111632.png",
     "Files/Pasted image 20240822111613.png",
-    "MainBase/маппинг данных mapping.md",
-    "Daily/2024-08-01.md",
-    "Daily/2024-08-15.md",
     "Files/Pasted image 20240821164641.png",
     "Files/ГОСТ_34-602-89_ТЗ_на_создание_АС 1.pdf",
     "Files/Pasted image 20240821164144.png",
