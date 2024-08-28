@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "2f424db50d4f6ef7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/Масштабируемость.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f86f975dd4a682e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/Возможность_повторного_использования.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bcd53d2711d0b4c9",
             "type": "leaf",
             "state": {
@@ -54,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6485980b9736b985",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/Ограничение.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MainBase/Атрибут качества.md",
+                "file": "MainBase/Ограничение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MainBase/Атрибут качества.md",
+                "file": "MainBase/Ограничение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MainBase/Атрибут качества.md"
+                "file": "MainBase/Ограничение.md"
               }
             }
           }
@@ -182,12 +171,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "08ffa07fa8c2793f",
+  "active": "6485980b9736b985",
   "lastOpenFiles": [
+    "MainBase/Атрибут качества.md",
+    "MainBase/Проверяемость_тестируемость.md",
     "MainBase/Масштабируемость.md",
     "MainBase/Возможность_повторного_использования.md",
-    "MainBase/Атрибут качества.md",
     "MainBase/микросервисная архитектура MSA.md",
+    "MainBase/Действие убивает страх.md",
+    "MainBase/цикломатическая сложность.md",
     "MainBase/Артефакты аналитика.md",
     "MainBase/Переносимость.md",
     "MainBase/Возможность модификации.md",
@@ -207,9 +199,6 @@
     "MainBase/HTTP.md",
     "MainBase/Stakeholder.md",
     "MainBase/user story.md",
-    "Daily/2024-08-17 задачи по структуре проекта.md",
-    "Daily/2024-08-22.md",
-    "MainBase/HTTP CRUD.md",
     "Files/Pasted image 20240822111632.png",
     "Files/Pasted image 20240822111613.png",
     "Files/Pasted image 20240821164641.png",
