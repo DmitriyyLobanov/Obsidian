@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "08ffa07fa8c2793f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/Атрибут качества.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bcd53d2711d0b4c9",
             "type": "leaf",
             "state": {
@@ -37,14 +25,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainBase/Ограничение.md",
+                "file": "MainBase/Управление требованиями.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f95221eebde4b49b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/утверждение требований.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f184ce42ac77f5b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MainBase/Ограничение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MainBase/Ограничение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MainBase/Ограничение.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,13 +175,23 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6485980b9736b985",
+  "active": "6f184ce42ac77f5b",
   "lastOpenFiles": [
+    "Files/swebok_2004_ru.epub",
+    "MainBase/утверждение требований.md",
+    "MainBase/подойдёшь поближе - увидишь побольше.md",
+    "Files/Pasted image 20240829230323.png",
+    "Files/Разработка требований к ПО_Вигерс.pdf",
+    "MainBase/Системное требование.md",
+    "MainBase/Управление требованиями.md",
+    "MainBase/Сбор требований.md",
+    "MainBase/Требование.md",
+    "MainBase/Ограничение.md",
+    "MainBase/микросервисная архитектура MSA.md",
     "MainBase/Атрибут качества.md",
     "MainBase/Проверяемость_тестируемость.md",
     "MainBase/Масштабируемость.md",
     "MainBase/Возможность_повторного_использования.md",
-    "MainBase/микросервисная архитектура MSA.md",
     "MainBase/Действие убивает страх.md",
     "MainBase/цикломатическая сложность.md",
     "MainBase/Артефакты аналитика.md",
@@ -191,14 +205,6 @@
     "MainBase/Бизнес правило.md",
     "MainBase/Устойчивость.md",
     "MainBase/Надёжность.md",
-    "MainBase/Удобство_установки.md",
-    "MainBase/Доступность.md",
-    "MainBase/Производительность.md",
-    "MainBase/Совместимость.md",
-    "MainBase/Целостность.md",
-    "MainBase/HTTP.md",
-    "MainBase/Stakeholder.md",
-    "MainBase/user story.md",
     "Files/Pasted image 20240822111632.png",
     "Files/Pasted image 20240822111613.png",
     "Files/Pasted image 20240821164641.png",
@@ -209,8 +215,6 @@
     "Files/Pasted image 20240821163529.png",
     "Files/Pasted image 20240821163112.png",
     "Files/Pasted image 20240821162655.png",
-    "Files/Pasted image 20240821162529.png",
-    "Files/Разработка требований к ПО_Вигерс.pdf",
     "кэшируемость результата запроса"
   ]
 }
