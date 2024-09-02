@@ -20,31 +20,53 @@
             }
           },
           {
-            "id": "6485980b9736b985",
+            "id": "ea45261ca1399f88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainBase/Управление требованиями.md",
+                "file": "MainBase/Разработка технических условий.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f95221eebde4b49b",
+            "id": "3a91cd600ee16c86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainBase/утверждение требований.md",
+                "file": "MainBase/рецензирование требований.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "8926d74d26472714",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/экспертиза.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62c87d6652e7587f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Files/Разработка требований к ПО_Вигерс.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MainBase/утверждение требований.md",
+                "file": "Files/Разработка требований к ПО_Вигерс.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MainBase/утверждение требований.md",
+                "file": "Files/Разработка требований к ПО_Вигерс.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MainBase/утверждение требований.md"
+                "file": "Files/Разработка требований к ПО_Вигерс.pdf"
               }
             }
           }
@@ -171,38 +193,39 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "f95221eebde4b49b",
+  "active": "62c87d6652e7587f",
   "lastOpenFiles": [
-    "MainBase/Promtp.md",
+    "MainBase/требования как чертежи.md",
+    "MainBase/экспертиза.md",
+    "Files/Pasted image 20240902223617.png",
+    "Files/Разработка требований к ПО_Вигерс.pdf",
+    "MainBase/микросервисная архитектура MSA.md",
+    "MainBase/Управление требованиями.md",
+    "MainBase/рецензирование требований.md",
+    "MainBase/Рецензии коллег.md",
+    "MainBase/подойдёшь поближе - увидишь побольше.md",
+    "MainBase/Разработка технических условий.md",
     "MainBase/утверждение требований.md",
     "MainBase/пример промпта.md",
+    "MainBase/Prompt.md",
     "первая попытка в obsidian/JavaSpring_and_CommonPractice/JAVA.md",
     "MainBase/Список приобретенных компетенций NeoFlex System Analyst.md",
-    "MainBase/Управление требованиями.md",
-    "MainBase/Разработка технических условий.md",
     "MainBase/use case.md",
     "MainBase/user story.md",
     "MainBase/шаблон UC US от Маши Душенковой.md",
     "Files/USE CASE_STORY.pdf",
     "Files/swebok_2004_ru.epub",
-    "MainBase/подойдёшь поближе - увидишь побольше.md",
     "Files/Pasted image 20240829230323.png",
-    "Files/Разработка требований к ПО_Вигерс.pdf",
     "MainBase/Системное требование.md",
     "MainBase/Сбор требований.md",
     "MainBase/Требование.md",
     "MainBase/Ограничение.md",
-    "MainBase/микросервисная архитектура MSA.md",
     "MainBase/Атрибут качества.md",
     "MainBase/Проверяемость_тестируемость.md",
     "MainBase/Масштабируемость.md",
     "MainBase/Возможность_повторного_использования.md",
     "MainBase/Действие убивает страх.md",
     "MainBase/цикломатическая сложность.md",
-    "MainBase/Артефакты аналитика.md",
-    "MainBase/Переносимость.md",
-    "MainBase/Возможность модификации.md",
-    "MainBase/Эффективность.md",
     "Files/Pasted image 20240822111632.png",
     "Files/Pasted image 20240822111613.png",
     "Files/Pasted image 20240821164641.png",
@@ -212,7 +235,6 @@
     "Files/Pasted image 20240821163800.png",
     "Files/Pasted image 20240821163529.png",
     "Files/Pasted image 20240821163112.png",
-    "Files/Pasted image 20240821162655.png",
     "кэшируемость результата запроса"
   ]
 }
