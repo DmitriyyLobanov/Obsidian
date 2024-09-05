@@ -20,42 +20,6 @@
             }
           },
           {
-            "id": "ea45261ca1399f88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/Разработка технических условий.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a91cd600ee16c86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/рецензирование требований.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8926d74d26472714",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/экспертиза.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "62c87d6652e7587f",
             "type": "leaf",
             "state": {
@@ -64,9 +28,21 @@
                 "file": "Files/Разработка требований к ПО_Вигерс.pdf"
               }
             }
+          },
+          {
+            "id": "9233758b936c9444",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/Что тестировать.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Разработка требований к ПО_Вигерс.pdf",
+                "file": "MainBase/Что тестировать.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Разработка требований к ПО_Вигерс.pdf",
+                "file": "MainBase/Что тестировать.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Разработка требований к ПО_Вигерс.pdf"
+                "file": "MainBase/Что тестировать.md"
               }
             }
           }
@@ -193,23 +169,30 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "62c87d6652e7587f",
+  "active": "9233758b936c9444",
   "lastOpenFiles": [
-    "MainBase/требования как чертежи.md",
-    "MainBase/экспертиза.md",
-    "Files/Pasted image 20240902223617.png",
+    "MainBase/Что тестировать.md",
     "Files/Разработка требований к ПО_Вигерс.pdf",
+    "MainBase/методологии разработки ПО.md",
+    "MainBase/scrum.md",
     "MainBase/микросервисная архитектура MSA.md",
-    "MainBase/Управление требованиями.md",
+    "MainBase/Разработка технических условий.md",
     "MainBase/рецензирование требований.md",
+    "MainBase/экспертиза.md",
+    "MainBase/Стили межсистемной интеграции по API.md",
+    "MainBase/жизненный цикл разработки ПО SDLC.md",
+    "MainBase/Список приобретенных компетенций NeoFlex System Analyst.md",
+    "MainBase/SRS.md",
+    "MainBase/ТЗ.md",
+    "MainBase/требования как чертежи.md",
+    "Files/Pasted image 20240902223617.png",
+    "MainBase/Управление требованиями.md",
     "MainBase/Рецензии коллег.md",
     "MainBase/подойдёшь поближе - увидишь побольше.md",
-    "MainBase/Разработка технических условий.md",
     "MainBase/утверждение требований.md",
     "MainBase/пример промпта.md",
     "MainBase/Prompt.md",
     "первая попытка в obsidian/JavaSpring_and_CommonPractice/JAVA.md",
-    "MainBase/Список приобретенных компетенций NeoFlex System Analyst.md",
     "MainBase/use case.md",
     "MainBase/user story.md",
     "MainBase/шаблон UC US от Маши Душенковой.md",
@@ -219,13 +202,6 @@
     "MainBase/Системное требование.md",
     "MainBase/Сбор требований.md",
     "MainBase/Требование.md",
-    "MainBase/Ограничение.md",
-    "MainBase/Атрибут качества.md",
-    "MainBase/Проверяемость_тестируемость.md",
-    "MainBase/Масштабируемость.md",
-    "MainBase/Возможность_повторного_использования.md",
-    "MainBase/Действие убивает страх.md",
-    "MainBase/цикломатическая сложность.md",
     "Files/Pasted image 20240822111632.png",
     "Files/Pasted image 20240822111613.png",
     "Files/Pasted image 20240821164641.png",
