@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "454e3d9b701d726b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/оценка применяемых приёмов работы с требованиями.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MainBase/Что тестировать.md",
+                "file": "MainBase/оценка применяемых приёмов работы с требованиями.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MainBase/Что тестировать.md",
+                "file": "MainBase/оценка применяемых приёмов работы с требованиями.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MainBase/Что тестировать.md"
+                "file": "MainBase/оценка применяемых приёмов работы с требованиями.md"
               }
             }
           }
@@ -169,9 +181,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9233758b936c9444",
+  "active": "454e3d9b701d726b",
   "lastOpenFiles": [
+    "MainBase/Требование.md",
+    "MainBase/оценка применяемых приёмов работы с требованиями.md",
     "MainBase/Что тестировать.md",
+    "MainBase/Системный анализ.md",
+    "MainBase/Первые 90% проекта.md",
     "Files/Разработка требований к ПО_Вигерс.pdf",
     "MainBase/методологии разработки ПО.md",
     "MainBase/scrum.md",
@@ -195,13 +211,9 @@
     "первая попытка в obsidian/JavaSpring_and_CommonPractice/JAVA.md",
     "MainBase/use case.md",
     "MainBase/user story.md",
-    "MainBase/шаблон UC US от Маши Душенковой.md",
     "Files/USE CASE_STORY.pdf",
     "Files/swebok_2004_ru.epub",
     "Files/Pasted image 20240829230323.png",
-    "MainBase/Системное требование.md",
-    "MainBase/Сбор требований.md",
-    "MainBase/Требование.md",
     "Files/Pasted image 20240822111632.png",
     "Files/Pasted image 20240822111613.png",
     "Files/Pasted image 20240821164641.png",
