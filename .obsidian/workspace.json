@@ -30,18 +30,6 @@
             }
           },
           {
-            "id": "9233758b936c9444",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/Что тестировать.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "454e3d9b701d726b",
             "type": "leaf",
             "state": {
@@ -52,9 +40,81 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2062486413bedf73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/SOAP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fcb9a8e61cae806",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/Стили межсистемной интеграции.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07cecf206eb9fce9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/Kafka.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94f71e1e611cce1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/DoR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0ed47337b8d3e11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/DoD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba2446072c3e4074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/CAP-теорема.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -120,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MainBase/оценка применяемых приёмов работы с требованиями.md",
+                "file": "MainBase/CAP-теорема.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MainBase/оценка применяемых приёмов работы с требованиями.md",
+                "file": "MainBase/CAP-теорема.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MainBase/оценка применяемых приёмов работы с требованиями.md"
+                "file": "MainBase/CAP-теорема.md"
               }
             }
           }
@@ -181,10 +241,26 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "454e3d9b701d726b",
+  "active": "ba2446072c3e4074",
   "lastOpenFiles": [
-    "MainBase/Требование.md",
+    "MainBase/Kafka.md",
+    "MainBase/CAP-теорема.md",
+    "Files/Pasted image 20240916155752.png",
+    "MainBase/DoD.md",
+    "MainBase/DoR.md",
+    "MainBase/dashboard.md",
+    "MainBase/SOAP.md",
+    "MainBase/x-path.md",
+    "MainBase/XSD.md",
+    "MainBase/XML.md",
+    "MainBase/Стили межсистемной интеграции.md",
+    "MainBase/shared database.md",
+    "MainBase/file transfer (file exchange).md",
+    "MainBase/RabbitMQ.md",
+    "MainBase/XSLT.md",
+    "MainBase/WSDL.md",
     "MainBase/оценка применяемых приёмов работы с требованиями.md",
+    "MainBase/Требование.md",
     "MainBase/Что тестировать.md",
     "MainBase/Системный анализ.md",
     "MainBase/Первые 90% проекта.md",
@@ -194,23 +270,7 @@
     "MainBase/микросервисная архитектура MSA.md",
     "MainBase/Разработка технических условий.md",
     "MainBase/рецензирование требований.md",
-    "MainBase/экспертиза.md",
-    "MainBase/Стили межсистемной интеграции по API.md",
-    "MainBase/жизненный цикл разработки ПО SDLC.md",
-    "MainBase/Список приобретенных компетенций NeoFlex System Analyst.md",
-    "MainBase/SRS.md",
-    "MainBase/ТЗ.md",
-    "MainBase/требования как чертежи.md",
     "Files/Pasted image 20240902223617.png",
-    "MainBase/Управление требованиями.md",
-    "MainBase/Рецензии коллег.md",
-    "MainBase/подойдёшь поближе - увидишь побольше.md",
-    "MainBase/утверждение требований.md",
-    "MainBase/пример промпта.md",
-    "MainBase/Prompt.md",
-    "первая попытка в obsidian/JavaSpring_and_CommonPractice/JAVA.md",
-    "MainBase/use case.md",
-    "MainBase/user story.md",
     "Files/USE CASE_STORY.pdf",
     "Files/swebok_2004_ru.epub",
     "Files/Pasted image 20240829230323.png",
@@ -222,7 +282,6 @@
     "Files/Pasted image 20240821164009.png",
     "Files/Pasted image 20240821163800.png",
     "Files/Pasted image 20240821163529.png",
-    "Files/Pasted image 20240821163112.png",
     "кэшируемость результата запроса"
   ]
 }
