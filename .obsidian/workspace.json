@@ -4,117 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a336a6ae98755527",
+        "id": "b0a402868fdd9fa8",
         "type": "tabs",
         "children": [
           {
-            "id": "bcd53d2711d0b4c9",
+            "id": "9038f6e6ee8df25a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainBase/микросервисная архитектура MSA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62c87d6652e7587f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Files/Разработка требований к ПО_Вигерс.pdf"
-              }
-            }
-          },
-          {
-            "id": "454e3d9b701d726b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/оценка применяемых приёмов работы с требованиями.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2062486413bedf73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/SOAP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fcb9a8e61cae806",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/Стили межсистемной интеграции.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07cecf206eb9fce9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/Kafka.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94f71e1e611cce1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/DoR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0ed47337b8d3e11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/DoD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba2446072c3e4074",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/CAP-теорема.md",
+                "file": "MainBase/Список профессиональной литературы аналитика.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MainBase/CAP-теорема.md",
+                "file": "MainBase/Список профессиональной литературы аналитика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MainBase/CAP-теорема.md",
+                "file": "MainBase/Список профессиональной литературы аналитика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MainBase/CAP-теорема.md"
+                "file": "MainBase/Список профессиональной литературы аналитика.md"
               }
             }
           }
@@ -241,36 +146,36 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ba2446072c3e4074",
+  "active": "9038f6e6ee8df25a",
   "lastOpenFiles": [
-    "MainBase/HTTP CRUD.md",
     "MainBase/CAP-теорема.md",
+    "MainBase/DoD.md",
+    "MainBase/DoR.md",
+    "MainBase/Kafka.md",
+    "MainBase/Стили межсистемной интеграции.md",
+    "MainBase/SOAP.md",
+    "MainBase/микросервисная архитектура MSA.md",
+    "Files/Разработка требований к ПО_Вигерс.pdf",
+    "MainBase/оценка применяемых приёмов работы с требованиями.md",
+    "MainBase/HTTP CRUD.md",
     "MainBase/сервис ориентированная архитектура SOA.md",
     "MainBase/архитектура ПО.md",
     "MainBase/монолитная архитектура.md",
-    "MainBase/Kafka.md",
     "Files/Pasted image 20240916155752.png",
-    "MainBase/DoD.md",
-    "MainBase/DoR.md",
     "MainBase/dashboard.md",
-    "MainBase/SOAP.md",
     "MainBase/x-path.md",
     "MainBase/XSD.md",
     "MainBase/XML.md",
-    "MainBase/Стили межсистемной интеграции.md",
     "MainBase/shared database.md",
     "MainBase/file transfer (file exchange).md",
     "MainBase/RabbitMQ.md",
     "MainBase/XSLT.md",
     "MainBase/WSDL.md",
-    "MainBase/оценка применяемых приёмов работы с требованиями.md",
     "MainBase/Требование.md",
     "MainBase/Что тестировать.md",
     "MainBase/Системный анализ.md",
     "MainBase/Первые 90% проекта.md",
-    "Files/Разработка требований к ПО_Вигерс.pdf",
     "MainBase/методологии разработки ПО.md",
-    "MainBase/scrum.md",
     "Files/Pasted image 20240902223617.png",
     "Files/USE CASE_STORY.pdf",
     "Files/swebok_2004_ru.epub",
