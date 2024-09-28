@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "169c3511ee9a1db5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc4ba6752c713a43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/функции SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71697938580971d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/модификатор даты SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MainBase/Список профессиональной литературы аналитика.md",
+                "file": "MainBase/модификатор даты SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MainBase/Список профессиональной литературы аналитика.md",
+                "file": "MainBase/модификатор даты SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MainBase/Список профессиональной литературы аналитика.md"
+                "file": "MainBase/модификатор даты SQL.md"
               }
             }
           }
@@ -146,36 +183,36 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9038f6e6ee8df25a",
+  "active": "71697938580971d3",
   "lastOpenFiles": [
-    "MainBase/CAP-теорема.md",
-    "MainBase/DoD.md",
-    "MainBase/DoR.md",
-    "MainBase/Kafka.md",
-    "MainBase/Стили межсистемной интеграции.md",
-    "MainBase/SOAP.md",
-    "MainBase/микросервисная архитектура MSA.md",
+    "MainBase/функции SQL.md",
+    "MainBase/SUM().md",
+    "MainBase/MIN().md",
+    "MainBase/MAX().md",
+    "MainBase/COUNT().md",
+    "MainBase/AVG().md",
+    "MainBase/'NOW'.md",
+    "MainBase/TIME().md",
+    "MainBase/DATETIME().md",
+    "MainBase/DATE().md",
+    "MainBase/STRFTIME().md",
+    "MainBase/JULIANDAY().md",
+    "MainBase/модификатор даты SQL.md",
+    "MainBase/оператор конкатенации.md",
+    "MainBase/TRIM().md",
+    "MainBase/SUBSTR().md",
+    "MainBase/REPLACE().md",
+    "MainBase/RTRIM().md",
+    "MainBase/LTRIM().md",
+    "MainBase/UPPER().md",
+    "MainBase/LOWER().md",
+    "MainBase/LENGTH().md",
+    "MainBase/INSTR().md",
+    "MainBase/SQL.md",
+    "MainBase/Список профессиональной литературы аналитика.md",
+    "MainBase/GraphQL.md",
     "Files/Разработка требований к ПО_Вигерс.pdf",
-    "MainBase/оценка применяемых приёмов работы с требованиями.md",
-    "MainBase/HTTP CRUD.md",
-    "MainBase/сервис ориентированная архитектура SOA.md",
-    "MainBase/архитектура ПО.md",
-    "MainBase/монолитная архитектура.md",
     "Files/Pasted image 20240916155752.png",
-    "MainBase/dashboard.md",
-    "MainBase/x-path.md",
-    "MainBase/XSD.md",
-    "MainBase/XML.md",
-    "MainBase/shared database.md",
-    "MainBase/file transfer (file exchange).md",
-    "MainBase/RabbitMQ.md",
-    "MainBase/XSLT.md",
-    "MainBase/WSDL.md",
-    "MainBase/Требование.md",
-    "MainBase/Что тестировать.md",
-    "MainBase/Системный анализ.md",
-    "MainBase/Первые 90% проекта.md",
-    "MainBase/методологии разработки ПО.md",
     "Files/Pasted image 20240902223617.png",
     "Files/USE CASE_STORY.pdf",
     "Files/swebok_2004_ru.epub",
