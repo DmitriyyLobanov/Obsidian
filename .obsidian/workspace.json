@@ -37,6 +37,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "MainBase/SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a464b95c26cd827c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/view_SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "761fbfdadf77320f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "MainBase/функции SQL.md",
                 "mode": "source",
                 "source": false
@@ -44,12 +68,24 @@
             }
           },
           {
-            "id": "71697938580971d3",
+            "id": "d8e952a9cb5db02a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainBase/модификатор даты SQL.md",
+                "file": "MainBase/STRFTIME().md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "261e19c21048dca3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/операторы SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MainBase/модификатор даты SQL.md",
+                "file": "MainBase/view_SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MainBase/модификатор даты SQL.md",
+                "file": "MainBase/view_SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MainBase/модификатор даты SQL.md"
+                "file": "MainBase/view_SQL.md"
               }
             }
           }
@@ -183,9 +219,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "71697938580971d3",
+  "active": "a464b95c26cd827c",
   "lastOpenFiles": [
+    "MainBase/SQL.md",
+    "MainBase/view_SQL.md",
+    "MainBase/STRFTIME().md",
     "MainBase/функции SQL.md",
+    "MainBase/операторы SQL.md",
+    "MainBase/having.md",
+    "MainBase/модификатор даты SQL.md",
     "MainBase/SUM().md",
     "MainBase/MIN().md",
     "MainBase/MAX().md",
@@ -195,9 +237,7 @@
     "MainBase/TIME().md",
     "MainBase/DATETIME().md",
     "MainBase/DATE().md",
-    "MainBase/STRFTIME().md",
     "MainBase/JULIANDAY().md",
-    "MainBase/модификатор даты SQL.md",
     "MainBase/оператор конкатенации.md",
     "MainBase/TRIM().md",
     "MainBase/SUBSTR().md",
@@ -207,10 +247,6 @@
     "MainBase/UPPER().md",
     "MainBase/LOWER().md",
     "MainBase/LENGTH().md",
-    "MainBase/INSTR().md",
-    "MainBase/SQL.md",
-    "MainBase/Список профессиональной литературы аналитика.md",
-    "MainBase/GraphQL.md",
     "Files/Разработка требований к ПО_Вигерс.pdf",
     "Files/Pasted image 20240916155752.png",
     "Files/Pasted image 20240902223617.png",
