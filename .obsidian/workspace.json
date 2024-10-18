@@ -20,55 +20,44 @@
             }
           },
           {
-            "id": "bc4ba6752c713a43",
+            "id": "3287a0e7ad7ec07f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainBase/SQL.md",
+                "file": "MainBase/идентификация аутентификация авторизация.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a464b95c26cd827c",
+            "id": "e45c3c5ba6de510d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainBase/view_SQL.md",
+                "file": "MainBase/Обзор способов и протоколов аутентификации в веб-приложениях.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "761fbfdadf77320f",
+            "id": "ee47cbdeb10afc60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainBase/функции SQL.md",
+                "file": "MainBase/BPMN диаграмма.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12b3e216b9223307",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/Функциональное требование.md",
-                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MainBase/Функциональное требование.md",
+                "file": "MainBase/BPMN диаграмма.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MainBase/Функциональное требование.md",
+                "file": "MainBase/BPMN диаграмма.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MainBase/Функциональное требование.md"
+                "file": "MainBase/BPMN диаграмма.md"
               }
             }
           }
@@ -195,13 +184,29 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "12b3e216b9223307",
+  "active": "ee47cbdeb10afc60",
   "lastOpenFiles": [
-    "MainBase/функции SQL.md",
+    "MainBase/Атрибут качества.md",
+    "MainBase/Нефункциональное требование.md",
     "MainBase/BPMN диаграмма.md",
+    "MainBase/Обзор способов и протоколов аутентификации в веб-приложениях.md",
+    "Files/Pasted image 20241017120624.png",
+    "Files/Pasted image 20241017115739.png",
+    "Files/Pasted image 20241017115726.png",
+    "Files/Pasted image 20241017113913.png",
+    "Files/Pasted image 20241017113718.png",
+    "Files/Pasted image 20241017113139.png",
+    "Files/Pasted image 20241017113018.png",
+    "Files/Pasted image 20241017112534.png",
+    "Files/Pasted image 20241017112521.png",
+    "Files/Pasted image 20241017112112.png",
+    "MainBase/идентификация аутентификация авторизация.md",
     "MainBase/Список профессиональной литературы аналитика.md",
-    "MainBase/view_SQL.md",
     "MainBase/SQL.md",
+    "MainBase/Моделирование требований.md",
+    "MainBase/view_SQL.md",
+    "MainBase/функции SQL.md",
+    "MainBase/Функциональное требование.md",
     "MainBase/STRFTIME().md",
     "MainBase/операторы SQL.md",
     "MainBase/having.md",
@@ -216,27 +221,10 @@
     "MainBase/DATETIME().md",
     "MainBase/DATE().md",
     "MainBase/JULIANDAY().md",
-    "MainBase/оператор конкатенации.md",
-    "MainBase/TRIM().md",
-    "MainBase/SUBSTR().md",
-    "MainBase/REPLACE().md",
-    "MainBase/RTRIM().md",
-    "MainBase/LTRIM().md",
-    "MainBase/UPPER().md",
     "Files/Разработка требований к ПО_Вигерс.pdf",
-    "Files/Pasted image 20240916155752.png",
-    "Files/Pasted image 20240902223617.png",
     "Files/USE CASE_STORY.pdf",
     "Files/swebok_2004_ru.epub",
-    "Files/Pasted image 20240829230323.png",
-    "Files/Pasted image 20240822111632.png",
-    "Files/Pasted image 20240822111613.png",
-    "Files/Pasted image 20240821164641.png",
     "Files/ГОСТ_34-602-89_ТЗ_на_создание_АС 1.pdf",
-    "Files/Pasted image 20240821164144.png",
-    "Files/Pasted image 20240821164009.png",
-    "Files/Pasted image 20240821163800.png",
-    "Files/Pasted image 20240821163529.png",
     "кэшируемость результата запроса"
   ]
 }
