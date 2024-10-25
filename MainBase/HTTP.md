@@ -2,6 +2,10 @@
 
 HyperText Transfer Protocol (Протокол передачи гипертекста)
 
+Отличный ресурс по http и всему что с ним связано:
+https://developer.mozilla.org/ru/docs/Web/HTTP/Status#ошибки_клиента
+
+
 Прикладной протокол передачи данных.
 Клиент - серверное взаимодействие с помощью [[HTTP CRUD]]
 
