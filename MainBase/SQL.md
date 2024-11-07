@@ -8,6 +8,10 @@
 
 Всякое:
 - [[view_SQL]]
+- [[constraint SQL]]
+
+
+
 
 
 #SQL
