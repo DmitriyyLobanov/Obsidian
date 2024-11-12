@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "a31bbd05f6230fbf",
+            "id": "71d92ed60c31429b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,21 +79,49 @@
             }
           },
           {
-            "id": "c7f8e31c6b7b1bf1",
+            "id": "085a510923c106cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MainBase/Сфера.md",
+                "file": "MainBase/методологии разработки ПО.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сфера"
+              "title": "методологии разработки ПО"
+            }
+          },
+          {
+            "id": "41b9befaee589110",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/Agile.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agile"
+            }
+          },
+          {
+            "id": "2b81e91337574299",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/scrum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "scrum"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -234,23 +262,29 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c7f8e31c6b7b1bf1",
+  "active": "41b9befaee589110",
   "lastOpenFiles": [
+    "MainBase/методологии разработки ПО.md",
+    "MainBase/Agile.md",
+    "MainBase/scrum.md",
+    "Files/Pasted image 20241112154716.png",
+    "MainBase/ПроПро.md",
+    "Files/Pasted image 20241112113232.png",
+    "MainBase/Финтех.md",
+    "MainBase/x-path.md",
+    "MainBase/WSDL.md",
+    "MainBase/SOAP.md",
+    "MainBase/DoR.md",
+    "MainBase/Сфера.md",
     "Files/Pasted image 20241110125433.png",
     "Files/Pasted image 20241110125421.png",
     "Files/Pasted image 20241110125148.png",
     "Files/Pasted image 20241110125112.png",
-    "MainBase/ПроПро.md",
-    "MainBase/Сфера.md",
     "Files/Pasted image 20241109223549.png",
     "Files/Pasted image 20241109222927.png",
     "MainBase/ПСИ.md",
     "Files/Pasted image 20241109221331.png",
     "Files/Pasted image 20241109221117.png",
-    "Files/Pasted image 20241108134301.png",
-    "Files/Pasted image 20241108134037.png",
-    "Files/Pasted image 20241108133654.png",
-    "MainBase/Финтех.md",
     "MainBase/Концепция продукта и границы проекта.md",
     "MainBase/Обзор способов и протоколов аутентификации в веб-приложениях.md",
     "MainBase/ОСЗ.md",
@@ -265,17 +299,10 @@
     "MainBase/Список тегов.md",
     "MainBase/Тестирование.md",
     "MainBase/A_B тестирование.md",
-    "MainBase/A/B тестирование.md",
     "MainBase/A",
     "A_",
-    "A/B тестирование.md",
     "A",
-    "MainBase/SQL.md",
-    "MainBase/constraint SQL.md",
     "Без названия.canvas",
-    "MainBase/FLOW2024.md",
-    "первая попытка в obsidian/JavaSpring_and_CommonPractice/Spring.md",
-    "первая попытка в obsidian/JavaSpring_and_CommonPractice/Java Spring Start.md",
     "Files/Разработка требований к ПО_Вигерс.pdf",
     "Files/USE CASE_STORY.pdf",
     "Files/swebok_2004_ru.epub",
