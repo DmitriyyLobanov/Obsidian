@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"485f9b7c321fa5c1","type":"text","text":"\n\n<font size = '42'>Семейка!</font>","x":-152,"y":-445,"width":280,"height":110},
+		{"id":"38b4a6a3485a3b68","type":"text","text":"1. Изучение постановок рестры\n2. Драфт постановки на FE\n3. BE по совещанию с разрабами\n","x":-457,"y":-145,"width":360,"height":220,"color":"4"},
+		{"id":"2d0913a44a604fd1","type":"text","text":"integration-adapter существует по факту, но не отображен в ТИС и АИС, никто конкретно за него не отвечает, все добавляют в него методы по собственной нужде. \nАбсолютно всё что на нём есть можно увидеть только на репе.\n","x":-72,"y":-145,"width":545,"height":300,"color":"1"},
+		{"id":"3580bbfdc564ef6a","type":"text","text":"Возможно придётся передавать инфу (собственно речь о изменившейся ставке) не только в ППКФЛ, но и в ОПС \"Отлагательные условия\"","x":-472,"y":225,"width":390,"height":220,"color":"4"},
+		{"id":"61a0ff6a76de25fc","type":"text","text":"Что такое отлагательные условия кстати?","x":28,"y":335,"width":250,"height":60,"color":"3"},
+		{"id":"12e010533831ffc8","x":320,"y":-620,"width":250,"height":320,"type":"text","text":"Вопросики:\n"},
+		{"id":"8d965cf3979e0c2f","x":-1000,"y":-398,"width":300,"height":145,"color":"3","type":"text","text":"На 1442 \"Карточка ФЛ\"\nЕсть в БД анкета ПОДиФТ\nИ отдельно таблица blackList\n"},
+		{"id":"714e0450386e95fc","type":"file","file":"Files/Pasted image 20241121164217.png","x":-1050,"y":-164,"width":400,"height":258},
+		{"id":"0451bfbffa29847a","x":-1450,"y":-520,"width":400,"height":299,"type":"file","file":"Files/Pasted image 20241121164436.png"},
+		{"id":"d864c48338da1b49","x":-1450,"y":-940,"width":400,"height":321,"type":"file","file":"Files/Pasted image 20241121164526.png"},
+		{"id":"aa2e8f2437e99cd6","x":660,"y":-145,"width":480,"height":645,"type":"text","text":"Если \"законные каникулы\" наша БО может проводиться, если там не последний платёж отложенных платежей."},
+		{"id":"fbd3b2c11c34bbf0","x":-621,"y":-940,"width":649,"height":158,"type":"text","text":"Контакты:\nСистемный аналитик реструктуризации: https://t.me/Its_Britney_boez"}
+	],
+	"edges":[
+		{"id":"e716185934f4a8ec","fromNode":"485f9b7c321fa5c1","fromSide":"bottom","toNode":"38b4a6a3485a3b68","toSide":"top"},
+		{"id":"6f98228db2aa5b72","fromNode":"485f9b7c321fa5c1","fromSide":"bottom","toNode":"2d0913a44a604fd1","toSide":"top"},
+		{"id":"bdebe81ef2a80239","fromNode":"38b4a6a3485a3b68","fromSide":"bottom","toNode":"3580bbfdc564ef6a","toSide":"top"},
+		{"id":"194b17630ddea6b1","fromNode":"61a0ff6a76de25fc","fromSide":"left","toNode":"3580bbfdc564ef6a","toSide":"right"},
+		{"id":"c714360ba90a5758","fromNode":"485f9b7c321fa5c1","fromSide":"left","toNode":"8d965cf3979e0c2f","toSide":"top"},
+		{"id":"8801d70709ddc975","fromNode":"8d965cf3979e0c2f","fromSide":"bottom","toNode":"714e0450386e95fc","toSide":"top"},
+		{"id":"b1cfeeadab4002b8","fromNode":"8d965cf3979e0c2f","fromSide":"left","toNode":"0451bfbffa29847a","toSide":"right"},
+		{"id":"c2e9ebf30a64c68c","fromNode":"0451bfbffa29847a","fromSide":"top","toNode":"d864c48338da1b49","toSide":"bottom"},
+		{"id":"a3046963c5e70080","fromNode":"485f9b7c321fa5c1","fromSide":"top","toNode":"fbd3b2c11c34bbf0","toSide":"bottom"}
+	]
+}

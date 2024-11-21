@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"9b8ac224c5e3751e","type":"text","text":"\n\n<font size = '42'>Контуры и доступы!</font>","x":1160,"y":-2000,"width":320,"height":180},
+		{"id":"12226776b393b07f","type":"text","text":"\n\n<font size = '42'>ВПН Банка</font>","x":1760,"y":-1720,"width":320,"height":100},
+		{"id":"6939fcf9167ad8fd","type":"text","text":"\n\n<font size = '42'>ВПН Иннотеха</font>","x":1760,"y":-2240,"width":320,"height":180},
+		{"id":"1d8ed68a90e5c6eb","type":"text","text":"\n\n<font size = '42'>inno.local</font>\n<font size = '42'>контуры Т1 иннотеха</font>\n\n\n\n","x":2360,"y":-2330,"width":600,"height":360},
+		{"id":"0ea2a08ef892808d","type":"text","text":"\n\n<font size = '42'>inno.local</font>\n<font size = '42'>corp.dev</font>\n<font size = '42'>ВРМ(region(ИФТ), bank, test)</font>\n\n\n","x":2360,"y":-1820,"width":600,"height":360},
+		{"id":"534494e2de5c99d2","type":"text","text":"\n\n<font size = '42'>Задачи</font>\n<font size = '42'>Знания</font>\n<font size = '42'>CI/CD(для ДСО corp.dev)</font>\n<font size = '42'>Git repositories</font>\n<font size = '42'>Maven repositories</font>\n<font size = '42'>Docker repositories</font>\n","x":3160,"y":-2330,"width":600,"height":490},
+		{"id":"370d0d3dd70436ec","type":"text","text":"\n\n<font size = '42'>inno.local</font>","x":3300,"y":-2560,"width":320,"height":180},
+		{"id":"bc018df48b59012c","type":"text","text":"1. Не могу войти в реестр API\n   Жду доступа по заявке (На ИБ!!!)\n2.  Можно ли как то получить доступ к БД 1491_14?\n","x":205,"y":-925,"width":360,"height":320,"color":"3"},
+		{"id":"ab935a25f6d9b6f3","type":"text","text":"Сервис 1408 - выступает единой точкой выдачи ролей внутренним пользователям и управления доступом к сервисам","x":235,"y":-1135,"width":300,"height":160},
+		{"id":"11f699149b8507de","type":"text","text":"Нашел логическую модель БД 1491_14","x":260,"y":-1360,"width":250,"height":60},
+		{"id":"4a2f59c0c30adc1e","type":"text","text":"ЕПА - Единая Система Аутентификации","x":260,"y":-1265,"width":250,"height":60},
+		{"id":"3a482f3b67736aec","type":"text","text":"Запросить больше систем в реестре API\nЗАПРОСИЛ","x":1005,"y":-1135,"width":250,"height":105,"color":"1"},
+		{"id":"ba0128f0a99a5329","type":"text","text":"\n<font size = '42'>Общее!</font>","x":1165,"y":-1360,"width":280,"height":110},
+		{"id":"b6a7d118737e65cb","type":"text","text":"Чтобы открывать сваггеры нужен доступ на контур test\n\nЗАПРОСИЛ","x":1165,"y":-985,"width":250,"height":155,"color":"1"},
+		{"id":"d590f648e81f0e71","type":"text","text":"Запросить postman у SD\nЦелая история с этим!","x":1320,"y":-1165,"width":250,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"0f84df5bfdb4defb","fromNode":"4a2f59c0c30adc1e","fromSide":"bottom","toNode":"ab935a25f6d9b6f3","toSide":"top"},
+		{"id":"d72b0066d7812724","fromNode":"ba0128f0a99a5329","fromSide":"bottom","toNode":"3a482f3b67736aec","toSide":"top"},
+		{"id":"559d5541992a60ee","fromNode":"ba0128f0a99a5329","fromSide":"bottom","toNode":"d590f648e81f0e71","toSide":"top"},
+		{"id":"ae7841fa3860816a","fromNode":"ba0128f0a99a5329","fromSide":"bottom","toNode":"b6a7d118737e65cb","toSide":"top"},
+		{"id":"58b33bc487d0295b","fromNode":"9b8ac224c5e3751e","fromSide":"right","toNode":"6939fcf9167ad8fd","toSide":"left"},
+		{"id":"759c0b3073d1d8ca","fromNode":"9b8ac224c5e3751e","fromSide":"right","toNode":"12226776b393b07f","toSide":"left"},
+		{"id":"369821be266db4cf","fromNode":"6939fcf9167ad8fd","fromSide":"right","toNode":"1d8ed68a90e5c6eb","toSide":"left"},
+		{"id":"1b2c3efa2cc78178","fromNode":"12226776b393b07f","fromSide":"right","toNode":"0ea2a08ef892808d","toSide":"left"},
+		{"id":"bf3f4e59ca26dd73","fromNode":"370d0d3dd70436ec","fromSide":"bottom","toNode":"534494e2de5c99d2","toSide":"top"}
+	]
+}

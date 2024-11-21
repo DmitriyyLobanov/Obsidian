@@ -2,7 +2,7 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "MainBase",
   "attachmentFolderPath": "Files",
-  "promptDelete": false,
+  "promptDelete": true,
   "alwaysUpdateLinks": true,
   "showRibbon": true
 }
