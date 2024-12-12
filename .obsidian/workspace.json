@@ -15,27 +15,13 @@
               "state": {
                 "file": "Семейная ипотека.canvas",
                 "viewState": {
-                  "x": 6448.439534692356,
-                  "y": 5576.292127833734,
-                  "zoom": -1.6521068838015087
+                  "x": -162.96954360887693,
+                  "y": 800.5777309608209,
+                  "zoom": 0.3333333333333334
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Семейная ипотека"
-            }
-          },
-          {
-            "id": "abc6d75e7c75e6f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MainBase/scrum.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "scrum"
             }
           }
         ]
@@ -181,6 +167,8 @@
   },
   "active": "f3486a33f2486cac",
   "lastOpenFiles": [
+    "Семейная ипотека.canvas",
+    "MainBase/scrum.md",
     "Files/Pasted image 20241210103738.png",
     "Files/Pasted image 20241210101938.png",
     "Files/Pasted image 20241210094644.png",
@@ -188,9 +176,7 @@
     "Files/Pasted image 20241209230840.png",
     "Files/Pasted image 20241209230714.png",
     "Files/Pasted image 20241208200011.png",
-    "Семейная ипотека.canvas",
     "Files/Pasted image 20241208195818.png",
-    "MainBase/scrum.md",
     "MainBase/Список литературы.md",
     "MainBase/A/B тестирование.md",
     "MainBase/BPMN диаграмма.md",
@@ -200,7 +186,6 @@
     "общее.canvas",
     "Files/Pasted image 20241121164526.png",
     "Files/Pasted image 20241121164436.png",
-    "Files/Pasted image 20241121164217.png",
     "Отчетность.canvas",
     "MainBase/Список профессиональной литературы аналитика.md",
     "Субсидирование.canvas",
