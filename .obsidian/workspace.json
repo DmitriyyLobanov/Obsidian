@@ -15,9 +15,9 @@
               "state": {
                 "file": "Семейная ипотека.canvas",
                 "viewState": {
-                  "x": -80.9214410196239,
-                  "y": 873.6241228610854,
-                  "zoom": 0.666666666666667
+                  "x": 1559.818174312701,
+                  "y": -800.276896833606,
+                  "zoom": 0.33333333333333365
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -167,6 +167,10 @@
   },
   "active": "f3486a33f2486cac",
   "lastOpenFiles": [
+    "Files/Pasted image 20250113154023.png",
+    "MainBase/дейли.md",
+    "Семейная ипотека.canvas",
+    "MainBase/распределённый монолит.md",
     "Files/Pasted image 20241223154502.png",
     "Files/Pasted image 20241223141811.png",
     "Files/Pasted image 20241219114856.png",
@@ -176,11 +180,9 @@
     "Files/Pasted image 20241217165406.png",
     "Files/Pasted image 20241217133026.png",
     "MainBase/WSDL.md",
-    "Семейная ипотека.canvas",
     "MainBase/scrum.md",
     "Files/Pasted image 20241210103738.png",
     "Files/Pasted image 20241210101938.png",
-    "Files/Pasted image 20241210094644.png",
     "MainBase/Список литературы.md",
     "MainBase/A/B тестирование.md",
     "MainBase/BPMN диаграмма.md",
@@ -206,8 +208,6 @@
     "MainBase/x-path.md",
     "MainBase/XSD.md",
     "MainBase/XML.md",
-    "MainBase/Процессинг.md",
-    "MainBase/Андеррайтинг.md",
     "MainBase/A",
     "A_",
     "A",
