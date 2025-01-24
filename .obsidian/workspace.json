@@ -15,9 +15,9 @@
               "state": {
                 "file": "Семейная ипотека.canvas",
                 "viewState": {
-                  "x": 419.0709607013523,
-                  "y": 1485.3592472155412,
-                  "zoom": -0.9999999999999998
+                  "x": 2431.91016423768,
+                  "y": 14574.824124480483,
+                  "zoom": 3.3306690738754696e-16
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -167,6 +167,7 @@
   },
   "active": "f3486a33f2486cac",
   "lastOpenFiles": [
+    "Files/Pasted image 20250124120547.png",
     "MainBase/Диаграмма переходов состояний STD.md",
     "Семейная ипотека.canvas",
     "Files/Pasted image 20250114145128.png",
@@ -207,7 +208,6 @@
     "MainBase/SOAP.md",
     "MainBase/x-path.md",
     "MainBase/XSD.md",
-    "MainBase/XML.md",
     "MainBase/A",
     "A_",
     "A",
