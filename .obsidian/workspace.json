@@ -15,9 +15,9 @@
               "state": {
                 "file": "Семейная ипотека.canvas",
                 "viewState": {
-                  "x": 13155.563657562592,
-                  "y": 12355.027615695231,
-                  "zoom": -1.1102230246251565e-16
+                  "x": -152.79924880433884,
+                  "y": 1085.4081710525525,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -168,6 +168,7 @@
   },
   "active": "f3486a33f2486cac",
   "lastOpenFiles": [
+    "Files/Pasted image 20250211143100.png",
     "Files/Pasted image 20250210180707.png",
     "Files/Pasted image 20250210143110.png",
     "Files/Pasted image 20250210142751.png",
@@ -185,7 +186,6 @@
     "MainBase/распределённый монолит.md",
     "Files/Pasted image 20241223154502.png",
     "Files/Pasted image 20241223141811.png",
-    "Files/Pasted image 20241219114856.png",
     "MainBase/WSDL.md",
     "MainBase/scrum.md",
     "MainBase/Список литературы.md",
