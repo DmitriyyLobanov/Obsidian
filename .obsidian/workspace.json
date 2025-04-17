@@ -15,9 +15,9 @@
               "state": {
                 "file": "Семейная ипотека.canvas",
                 "viewState": {
-                  "x": -125.53216748028798,
-                  "y": 1104.4746370390592,
-                  "zoom": 0.2714362888235077
+                  "x": 99.65875384762978,
+                  "y": 1665.140482584554,
+                  "zoom": 0.05917693773905405
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MainBase/BPMN диаграмма.md",
+                "file": "Семейная ипотека.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для BPMN диаграмма"
+              "title": "Обратные ссылки для Семейная ипотека"
             }
           },
           {
@@ -116,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MainBase/BPMN диаграмма.md",
+                "file": "Семейная ипотека.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из BPMN диаграмма"
+              "title": "Исходящие ссылки из Семейная ипотека"
             }
           },
           {
@@ -168,6 +168,8 @@
   },
   "active": "f3486a33f2486cac",
   "lastOpenFiles": [
+    "Семейная ипотека.canvas",
+    "MainBase/маппинг данных mapping.md",
     "Files/Pasted image 20250313163724.png",
     "Files/Pasted image 20250211143100.png",
     "Files/Pasted image 20250210180707.png",
@@ -175,7 +177,6 @@
     "Files/Pasted image 20250210142751.png",
     "Files/Pasted image 20250207115350.png",
     "MainBase/дейли.md",
-    "Семейная ипотека.canvas",
     "MainBase/Величайшие преступления совершаются из-за стремления к избытку, а не к предметам первой необходимости.md",
     "MainBase/Проницательность без деятельности есть сон. Деятельность без проницательности есть кошмар..md",
     "MainBase/Действие убивает страх.md",
@@ -185,7 +186,6 @@
     "Files/Pasted image 20250114145115.png",
     "Files/Pasted image 20250113154023.png",
     "MainBase/распределённый монолит.md",
-    "Files/Pasted image 20241223154502.png",
     "MainBase/WSDL.md",
     "MainBase/scrum.md",
     "MainBase/Список литературы.md",
@@ -208,7 +208,6 @@
     "MainBase/Субсидирование.md",
     "MainBase/Исполняемый.md",
     "MainBase/Аналитический.md",
-    "MainBase/Описательный.md",
     "MainBase/A",
     "A_",
     "A",
