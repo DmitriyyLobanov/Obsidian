@@ -15,9 +15,9 @@
               "state": {
                 "file": "Семейная ипотека.canvas",
                 "viewState": {
-                  "x": 99.65875384762978,
-                  "y": 1665.140482584554,
-                  "zoom": 0.05917693773905405
+                  "x": 149.42876611139204,
+                  "y": 1129.126789406296,
+                  "zoom": 3.3306690738754696e-16
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -168,6 +168,7 @@
   },
   "active": "f3486a33f2486cac",
   "lastOpenFiles": [
+    "Аттестация 11.04.2026.canvas",
     "Семейная ипотека.canvas",
     "MainBase/маппинг данных mapping.md",
     "Files/Pasted image 20250313163724.png",
