@@ -15,9 +15,9 @@
               "state": {
                 "file": "Семейная ипотека.canvas",
                 "viewState": {
-                  "x": -89.11859888909632,
-                  "y": 1494.4054098905797,
-                  "zoom": 0.36575664178520867
+                  "x": 7.733898250381323,
+                  "y": 951.3173818367245,
+                  "zoom": -0.9675766915481245
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 214.5
   },
   "right": {
     "id": "bf0b73eef818a2b1",
@@ -185,6 +185,7 @@
   },
   "active": "f3486a33f2486cac",
   "lastOpenFiles": [
+    "Files/Pasted image 20250423010059.png",
     "Аттестация 11.04.2026.canvas",
     "Семейная ипотека.canvas",
     "Files/Pasted image 20250422193534.png",
