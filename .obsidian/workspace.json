@@ -15,13 +15,30 @@
               "state": {
                 "file": "Семейная ипотека.canvas",
                 "viewState": {
-                  "x": 100.19194566374603,
-                  "y": 1191.206098367352,
-                  "zoom": 3.3306690738754696e-16
+                  "x": -89.11859888909632,
+                  "y": 1494.4054098905797,
+                  "zoom": 0.36575664178520867
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Семейная ипотека"
+            }
+          },
+          {
+            "id": "47311d91af867348",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Аттестация 11.04.2026.canvas",
+                "viewState": {
+                  "x": -16.13745242024764,
+                  "y": 992.1628337643111,
+                  "zoom": 0.1927623211464748
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Аттестация 11.04.2026"
             }
           }
         ]
@@ -170,6 +187,9 @@
   "lastOpenFiles": [
     "Аттестация 11.04.2026.canvas",
     "Семейная ипотека.canvas",
+    "Files/Pasted image 20250422193534.png",
+    "Files/Pasted image 20250422193523.png",
+    "Files/image_2025-04-22_15-28-09.png",
     "MainBase/дейли.md",
     "MainBase/маппинг данных mapping.md",
     "Files/Pasted image 20250313163724.png",
@@ -183,9 +203,6 @@
     "MainBase/Действие убивает страх.md",
     "Files/Pasted image 20250124120547.png",
     "MainBase/Диаграмма переходов состояний STD.md",
-    "Files/Pasted image 20250114145128.png",
-    "Files/Pasted image 20250114145115.png",
-    "Files/Pasted image 20250113154023.png",
     "MainBase/распределённый монолит.md",
     "MainBase/WSDL.md",
     "MainBase/scrum.md",
