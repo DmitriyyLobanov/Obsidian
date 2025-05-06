@@ -15,9 +15,9 @@
               "state": {
                 "file": "Семейная ипотека.canvas",
                 "viewState": {
-                  "x": -727.9939595150179,
-                  "y": 2045.6315148098438,
-                  "zoom": 3.3306690738754696e-16
+                  "x": -731.719439988885,
+                  "y": 2150.5213763561674,
+                  "zoom": -0.1666666666666669
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -163,15 +163,20 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "random-note:Открыть случайную заметку": false
     }
   },
   "active": "f3486a33f2486cac",
   "lastOpenFiles": [
+    "Семейная ипотека.canvas",
+    "Files/Pasted image 20250428161347.png",
+    "Files/Pasted image 20250428161341.png",
+    "Files/Pasted image 20250428161253.png",
+    "Templates/Daily.md",
     "Files/Pasted image 20250423021214.png",
     "Files/Pasted image 20250423010059.png",
     "Аттестация 11.04.2026.canvas",
-    "Семейная ипотека.canvas",
     "Files/Pasted image 20250422193534.png",
     "Files/Pasted image 20250422193523.png",
     "Files/image_2025-04-22_15-28-09.png",
@@ -179,10 +184,6 @@
     "MainBase/маппинг данных mapping.md",
     "Files/Pasted image 20250313163724.png",
     "Files/Pasted image 20250211143100.png",
-    "Files/Pasted image 20250210180707.png",
-    "Files/Pasted image 20250210143110.png",
-    "Files/Pasted image 20250210142751.png",
-    "Files/Pasted image 20250207115350.png",
     "MainBase/Величайшие преступления совершаются из-за стремления к избытку, а не к предметам первой необходимости.md",
     "MainBase/Проницательность без деятельности есть сон. Деятельность без проницательности есть кошмар..md",
     "MainBase/Действие убивает страх.md",
@@ -209,7 +210,6 @@
     "MainBase/Секьюритизация.md",
     "MainBase/Субсидирование.md",
     "MainBase/Исполняемый.md",
-    "MainBase/Аналитический.md",
     "MainBase/A",
     "A_",
     "A",
