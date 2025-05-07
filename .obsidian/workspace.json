@@ -15,9 +15,9 @@
               "state": {
                 "file": "Семейная ипотека.canvas",
                 "viewState": {
-                  "x": -8.881915623235386,
-                  "y": 1198.2491962069603,
-                  "zoom": 1.1102230246251565e-16
+                  "x": -353.9716756530753,
+                  "y": 1357.243379522584,
+                  "zoom": -0.9999999999999998
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -32,17 +32,57 @@
               "state": {
                 "file": "Аттестация 11.04.2026.canvas",
                 "viewState": {
-                  "x": 1628.6354006258007,
-                  "y": 831.0175763065922,
-                  "zoom": -0.1105900334437725
+                  "x": -785.9383716998435,
+                  "y": 335.5582921820254,
+                  "zoom": -0.11059003344377272
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Аттестация 11.04.2026"
             }
+          },
+          {
+            "id": "1672a90f9cdfbb48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/Список профессиональной литературы аналитика.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Список профессиональной литературы аналитика"
+            }
+          },
+          {
+            "id": "7e1d5703389b1cdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/Джей Гивакс Паттерны проектирования API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Джей Гивакс Паттерны проектирования API"
+            }
+          },
+          {
+            "id": "97c9d76b4c31af7e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Files/Джей_Гивакс_Паттерны_проектирования_API.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Джей_Гивакс_Паттерны_проектирования_API"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -185,8 +225,14 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "d4747208ee4d3e1c",
+  "active": "97c9d76b4c31af7e",
   "lastOpenFiles": [
+    "MainBase/Джей Гивакс Паттерны проектирования API.md",
+    "Files/Джей_Гивакс_Паттерны_проектирования_API.pdf",
+    "MainBase/Список профессиональной литературы аналитика.md",
+    "MainBase/Список тегов.md",
+    "Аттестация 11.04.2026.canvas",
+    "MainBase/Список литературы.md",
     "Семейная ипотека.canvas",
     "Files/Pasted image 20250428161347.png",
     "Files/Pasted image 20250428161341.png",
@@ -194,7 +240,6 @@
     "Templates/Daily.md",
     "Files/Pasted image 20250423021214.png",
     "Files/Pasted image 20250423010059.png",
-    "Аттестация 11.04.2026.canvas",
     "Files/Pasted image 20250422193534.png",
     "Files/Pasted image 20250422193523.png",
     "Files/image_2025-04-22_15-28-09.png",
@@ -209,7 +254,6 @@
     "MainBase/распределённый монолит.md",
     "MainBase/WSDL.md",
     "MainBase/scrum.md",
-    "MainBase/Список литературы.md",
     "MainBase/A/B тестирование.md",
     "MainBase/BPMN диаграмма.md",
     "MainBase/Атрибут качества.md",
@@ -217,7 +261,6 @@
     "MainBase/Нефункциональное требование.md",
     "общее.canvas",
     "Отчетность.canvas",
-    "MainBase/Список профессиональной литературы аналитика.md",
     "Субсидирование.canvas",
     "MainBase/идентификация аутентификация авторизация.md",
     "Деталка.canvas",
@@ -226,8 +269,6 @@
     "MainBase/Структура технического интервью.md",
     "MainBase/Цитата о найме персонала.md",
     "MainBase/Секьюритизация.md",
-    "MainBase/Субсидирование.md",
-    "MainBase/Исполняемый.md",
     "MainBase/A",
     "A_",
     "A",
