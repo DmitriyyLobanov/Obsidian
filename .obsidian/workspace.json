@@ -15,9 +15,9 @@
               "state": {
                 "file": "Семейная ипотека.canvas",
                 "viewState": {
-                  "x": -353.9716756530753,
-                  "y": 1357.243379522584,
-                  "zoom": -0.9999999999999998
+                  "x": -80.88979909087831,
+                  "y": 1588.4669112500912,
+                  "zoom": 0.3333333333333334
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -32,8 +32,8 @@
               "state": {
                 "file": "Аттестация 11.04.2026.canvas",
                 "viewState": {
-                  "x": 660.8190391087883,
-                  "y": 644.3438291158079,
+                  "x": -30.708605945284205,
+                  "y": 1166.3641336874298,
                   "zoom": -0.11059003344377272
                 }
               },
@@ -80,9 +80,36 @@
               "icon": "lucide-file-text",
               "title": "Джей_Гивакс_Паттерны_проектирования_API"
             }
+          },
+          {
+            "id": "97cf8def41070bbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/Паттерны проектирования API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Паттерны проектирования API"
+            }
+          },
+          {
+            "id": "7f3afd55d2105c87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MainBase/Экспорт данных.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Экспорт данных"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,15 +252,24 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "d4747208ee4d3e1c",
+  "active": "f3486a33f2486cac",
   "lastOpenFiles": [
+    "Аттестация 11.04.2026.canvas",
+    "MainBase/Экспорт данных.md",
+    "MainBase/Паттерны проектирования API.md",
     "Files/Джей_Гивакс_Паттерны_проектирования_API.pdf",
+    "MainBase/Пагинация.md",
     "MainBase/Джей Гивакс Паттерны проектирования API.md",
+    "MainBase/Хороший API.md",
+    "MainBase/RPC.md",
+    "Семейная ипотека.canvas",
+    "Files/Pasted image 20250511161328.png",
+    "Files/Pasted image 20250511161103.png",
+    "MainBase/Стили межсистемной интеграции.md",
+    "MainBase/gRPC.md",
     "MainBase/Список профессиональной литературы аналитика.md",
     "MainBase/Список тегов.md",
-    "Аттестация 11.04.2026.canvas",
     "MainBase/Список литературы.md",
-    "Семейная ипотека.canvas",
     "Files/Pasted image 20250428161347.png",
     "Files/Pasted image 20250428161341.png",
     "Files/Pasted image 20250428161253.png",
@@ -245,8 +281,6 @@
     "Files/image_2025-04-22_15-28-09.png",
     "MainBase/дейли.md",
     "MainBase/маппинг данных mapping.md",
-    "Files/Pasted image 20250313163724.png",
-    "Files/Pasted image 20250211143100.png",
     "MainBase/Величайшие преступления совершаются из-за стремления к избытку, а не к предметам первой необходимости.md",
     "MainBase/Проницательность без деятельности есть сон. Деятельность без проницательности есть кошмар..md",
     "MainBase/Действие убивает страх.md",
@@ -258,17 +292,10 @@
     "MainBase/BPMN диаграмма.md",
     "MainBase/Атрибут качества.md",
     "MainBase/Производительность.md",
-    "MainBase/Нефункциональное требование.md",
     "общее.canvas",
     "Отчетность.canvas",
     "Субсидирование.canvas",
-    "MainBase/идентификация аутентификация авторизация.md",
     "Деталка.canvas",
-    "MainBase/Траншевая ипотека.md",
-    "MainBase/Финтех.md",
-    "MainBase/Структура технического интервью.md",
-    "MainBase/Цитата о найме персонала.md",
-    "MainBase/Секьюритизация.md",
     "MainBase/A",
     "A_",
     "A",
